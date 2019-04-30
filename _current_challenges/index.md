@@ -11,8 +11,8 @@ excerpt: "Current and upcoming SAMPL challenges"
 
 Several challenges will launch in the immediate future, including:
 - Host-guest binding on octa acid derivatives (Gibb lab)
-- Host-guest binding on modified cyclodextrin derivatives (Isaacs lab)
-- Host-guest binding on a glycouril clip-like host (Gilson lab)
+- Host-guest binding on modified cyclodextrin derivatives (Gilson lab)
+- Host-guest binding on a glycouril clip-like host (Isaacs lab)
 
 
 {% for collection in site.collections %}
