@@ -31,3 +31,5 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). We also have e-mail lists for individual challenges which are available from the GitHub sites associated with each challenge or challenge component.
