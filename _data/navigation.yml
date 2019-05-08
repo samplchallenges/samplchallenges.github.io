@@ -6,6 +6,22 @@ main:
   - title: History
     url: /history/
 
+workshops.md:
+  - title: Upcoming SAMPL workshops
+    url: /current/workshops/index.html#
+    children:
+    - title: The SAMPL6 LogP Virtual Workshop
+      url: /current/workshops/index.html#the-sampl6-logp-virtual-workshop
+      children:
+      - title: Overview/Purpose
+        url: /current/workshops/index.html#overviewpurpose
+      - title: Agenda
+        url: /current/workshops/index.html#agenda
+      - title: Connection details
+        url: /current/workshops/index.html#connection-details
+    - title: The 2019 D3R/SAMPL Joint Workshop
+      url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
+
 specialissues.md:
   - title: SAMPL special issues and sections
     url: /roadmap/specialissues/index.html#
