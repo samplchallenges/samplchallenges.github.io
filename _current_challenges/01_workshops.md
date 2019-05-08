@@ -9,7 +9,7 @@ permalink: /current/workshops/
 
 ## The SAMPL6 LogP Virtual Workshop
 
-We have a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 19, beginning at 7 am US Pacific time.  
+We have a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, beginning at 7 am US Pacific time.  
 
 ### Overview/Purpose
 
