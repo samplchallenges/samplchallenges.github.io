@@ -6,6 +6,35 @@ main:
   - title: History
     url: /history/
 
-placeholder.md:
-  - title: This page under construction
-    url: /history/placeholder/index.html#
+specialissues.md:
+  - title: SAMPL special issues and sections
+    url: /roadmap/specialissues/index.html#
+    children:
+    - title: SAMPL6 logP Challenge
+      url: /roadmap/specialissues/index.html#sampl6-logp-challenge
+    - title: General plans for future special issues
+      url: /roadmap/specialissues/index.html#general-plans-for-future-special-issues
+      children:
+      - title: Submission deadlines
+        url: /roadmap/specialissues/index.html#submission-deadlines
+    - title: Review criteria for special issues
+      url: /roadmap/specialissues/index.html#review-criteria-for-special-issues
+
+challenges.md:
+  - title: Details on previous SAMPL challenges
+    url: /history/challenges/index.html#
+    children:
+    - title: Prior SAMPL challenges
+      url: /history/challenges/index.html#prior-sampl-challenges
+      children:
+      - title: Quick links
+        url: /history/challenges/index.html#quick-links
+    - title: Summaries
+      url: /history/challenges/index.html#summaries
+
+references.md:
+  - title: Links to SAMPL special issues
+    url: /history/references/index.html#
+    children:
+    - title: Additional references
+      url: /history/references/index.html#additional-references
