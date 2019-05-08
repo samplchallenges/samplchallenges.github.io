@@ -6,10 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/hosts.jpg
-excerpt: "Current and upcoming SAMPL challenges"
+excerpt: "Current and upcoming SAMPL challenges and meetings"
 ---
 
-## Upcoming challenges:
+## Upcoming challenges
 
 Several SAMPL7 challenges will launch in the immediate future, including:
 - Host-guest binding on octa acid derivatives (Gibb lab)
@@ -24,7 +24,7 @@ Please sign up for our [SAMPL7 e-mail list](http://eepurl.com/gpBBun) for e-mail
 
 Note that, in contrast to SAMPL0-5, the SAMPL numbering system now corresponds to *phases* rather than individual challenges. So, rather than corresponding to a single challenge with a single deadline, SAMPL7 will involve multiple component challenges with multiple deadlines.
 
-## Wrapping up SAMPL6:
+## Wrapping up SAMPL6
 
 SAMPL6 Part II, which is currently in the analysis phase, focused on an octanol-water log P prediction challenge. The Log P prediction challenge will be followed by a joint D3R/SAMPL workshop in San Diego, Aug 22-23, 2019, immediately before the San Diego ACS National Meeting; a virtual workshop is planned for May 16, 2019 (contact David Mobley if you are interested in attending). A special issue or special section of JCAMD will be organized to disseminate the results of this challenge, with a tentative submission deadline of September. Join our [SAMPL6 e-mail list](http://eepurl.com/gaAA0H) if you would like announcements pertaining to these events.
 

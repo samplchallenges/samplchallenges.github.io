@@ -9,7 +9,7 @@ permalink: /history/challenges/
 
 ## Prior SAMPL challenges
 
-### Quick links:
+### Quick links
 Here are quick links to SAMPL data repositories.
 Over time we plan to bring data packages for legacy SAMPL challenges online as time allows.
 
