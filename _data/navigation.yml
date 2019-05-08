@@ -6,6 +6,37 @@ main:
   - title: History
     url: /history/
 
-placeholder.md:
-  - title: This page under construction
-    url: /history/placeholder/index.html#
+workshops.md:
+  - title: Upcoming SAMPL workshops
+    url: /current/workshops/index.html#
+    children:
+    - title: The SAMPL6 LogP Virtual Workshop
+      url: /current/workshops/index.html#the-sampl6-logp-virtual-workshop
+      children:
+      - title: Overview/Purpose
+        url: /current/workshops/index.html#overviewpurpose
+      - title: Agenda
+        url: /current/workshops/index.html#agenda
+      - title: Connection details
+        url: /current/workshops/index.html#connection-details
+    - title: The 2019 D3R/SAMPL Joint Workshop
+      url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
+
+challenges.md:
+  - title: Details on previous SAMPL challenges
+    url: /history/challenges/index.html#
+    children:
+    - title: Prior SAMPL challenges
+      url: /history/challenges/index.html#prior-sampl-challenges
+      children:
+      - title: Quick links
+        url: /history/challenges/index.html#quick-links
+    - title: Summaries
+      url: /history/challenges/index.html#summaries
+
+references.md:
+  - title: Links to SAMPL special issues
+    url: /history/references/index.html#
+    children:
+    - title: Additional references
+      url: /history/references/index.html#additional-references
