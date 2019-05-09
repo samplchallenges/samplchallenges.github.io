@@ -22,7 +22,7 @@ A tentative agenda for this workshop is (all times US Pacific (PDT; UTC-7)):
 - **7-7:10 am**: *Welcome, introductions, and purpose*; David Mobley (UCI)
 - **7:10-7:50 am**: *Experiments and overview of results*, Mehtap Isik (MSKCC); 30 minute talk + 10 minutes of questions/discussion.
 - **7:50-8:05 am**: Andrew Paluch (Miami University, Ohio)
-- **8:05-8:35 am**: Christop Loschen (Cosmologic), *COSMO-RS based predictions for the SAMPL6 logP challenge*; 20 minute talk + 10 minutes of questions/discussion
+- **8:05-8:35 am**: Christoph Loschen (Cosmologic), *COSMO-RS based predictions for the SAMPL6 logP challenge*; 20 minute talk + 10 minutes of questions/discussion
 - **8:35-8:55 am**: Nicolas Tielker (TU Dortmund); 12 minute talk + 8 minutes of questions/discussion
 - **8:55-9:15 am**: Esteban Vohringer-Martinez (Univ. Concepción); 15 minute talk + 5 minutes of questions/discussion.
 - **9:15 am-9:25 am**: Alexey Nikitin; 5 minute talk + 5 minutes of discussion.
