@@ -22,6 +22,20 @@ workshops.md:
     - title: The 2019 D3R/SAMPL Joint Workshop
       url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
 
+submissions.md:
+  - title: SAMPL submissions and evaluation
+    url: /roadmap/submissions/index.html#
+  - title: Goals of SAMPL
+    url: /roadmap/submissions/index.html#goals-of-sampl
+    children:
+    - title: Multiple submissions
+      url: /roadmap/submissions/index.html#multiple-submissions
+    - title: External evaluation
+      url: /roadmap/submissions/index.html#external-evaluation
+    - title: Anonymous submissions
+      url: /roadmap/submissions/index.html#anonymous-submissions
+    - title: Focused virtual workshops and follow-ups
+      url: /roadmap/submissions/index.html#focused-virtual-workshops-and-follow-ups
 
 specialissues.md:
   - title: SAMPL special issues and sections
