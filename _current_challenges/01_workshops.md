@@ -37,3 +37,10 @@ Dial-in options for audio are also available; contact David Mobley if you need t
 
 The next [face-to-face workshop](https://drugdesigndata.org/about/d3r-2019-workshop) is Aug. 22-23, 2019 in San Diego, joint with D3R.
 Participation is relatively limited but we are checking on whether virtual attendance is a possibility.
+
+## Other potential workshops
+
+- **Possible** inaugural EuroSAMPL workshop, Nov. 4-5, 2020, following GCC 2020 in Mainz, Germany; this is pending funding and other details and is not yet confirmed.
+- SAMPL 2021, dates TBD, Irvine, CA
+- Possible EuroSAMPL in 2021 or 2022
+- SAMPL 2022, dates TBD, Irvine, CA

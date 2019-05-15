@@ -8,10 +8,11 @@ header:
   overlay_image: /assets/images/hosts.jpg
 excerpt: "The long-term roadmap"
 ---
+## The SAMPL Roadmap
 
-**Roadmap**: Details to be filled in here
+In general, the SAMPL roadmap is in flux depending on whether there are snags in data collection or new and exciting opportunities, but we try to keep the links below updated with the latest on our expectations for the future.
 
-**Data donation**: In general we seek assistance in obtaining high quality data along the lines described in the roadmap above. Some of the measurements will be conducted in our own laboratories, but for others, we rely on donations of data, internships with industry partners, etc., and we are delighted to have help in this regard. Please contact [David L. Mobley](https://mobleylab.org/people/david-mobley/) at dmobley (you know what symbol) mobleylab.org if you have ideas or can help. Properties of particular interest include log P and log D values (between water and alternate solvents, or between diverse solvents), pKa, solubility, binding to well-understood or simple model systems, and selected protein-ligand binding data. 
+**Data donation**: In general we seek assistance in obtaining high quality data along the lines described in the roadmap above. Some of the measurements will be conducted in our own laboratories, but for others, we rely on donations of data, internships with industry partners, etc., and we are delighted to have help in this regard. Please contact [David L. Mobley](https://mobleylab.org/people/david-mobley/) at dmobley (you know what symbol) mobleylab.org if you have ideas or can help. Properties of particular interest include log P and log D values (between water and alternate solvents, or between diverse solvents), pKa, solubility, binding to well-understood or simple model systems, and selected protein-ligand binding data.
 
 
 {% for collection in site.collections %}
