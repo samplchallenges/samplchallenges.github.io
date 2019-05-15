@@ -17,8 +17,8 @@ Previously, we allowed participants to submit multiple sets of predictions (for 
 Partly, this was to ensure optimal opportunities for learning from participation; participants could run several methods to compare and contrast their results.
 
 However, for SAMPL7 onwards, we are modestly changing our policy on multiple submissions to distinguish two categories of submissions:
-1) **Challenge submissions**: Formal, judged entries in SAMPL (only one per research group or research organization)
-2) **Verified submissions**: Blind predictions (unlimited per research group or research organization) which *are not formally judged*.
+1. **Challenge submissions**: Formal, judged entries in SAMPL (only one per research group or research organization)
+2. **Verified submissions**: Blind predictions (unlimited per research group or research organization) which *are not formally judged*.
 
 *Challenge submissions* are intended to be the single entry each participant expects to be best performing, and only these methods will receive overall rankings in SAMPL challenges. This will help to alleviate any concerns that a participant might gain an unfair advantage from having "multiple shots on goal" which could involve small variations in method or parameters with relatively little variation in science. Only challenge submissions will receive formal ranking within the relevant SAMPL challenge.
 
