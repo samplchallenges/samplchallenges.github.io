@@ -61,7 +61,7 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 - Host-guest binding challenges, summer 2021
 - Protein-ligand binding challenge TBD
 
-## SAMPL10 plans (Sept. 1, 20201 through Aug. 31, 2022)
+## SAMPL10 plans (Sept. 1, 2021 through Aug. 31, 2022)
 
 - Physical property challenge
 - Host-guest binding challenge
