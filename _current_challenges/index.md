@@ -19,6 +19,7 @@ Several SAMPL7 challenges will launch in the immediate future, including:
 Preliminary details of these are being posted to the [SAMPL7 GitHub repository](https://github.com/mobleylab/SAMPL7).
 
 We are also working with GSK on data collection for a partitioning challenge, and with NCATS on data collection for two potential protein-ligand binding challenges (on HSA and NanoLuc binding). Depending on data collection timescales these may comprise part of the SAMPL7 series, or may become part of SAMPL8.
+See our [roadmap](https://samplchallenges.github.io/roadmap/) pages for more details.
 
 Please sign up for our [SAMPL7 e-mail list](http://eepurl.com/gpBBun) for e-mail announcements, and bookmark (and watch) our [SAMPL7 GitHub repository](https://github.com/MobleyLab/SAMPL7).
 
