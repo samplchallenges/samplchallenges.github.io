@@ -32,7 +32,7 @@ We hope this early workshop will result in additional follow-up afterwards.
 
 ### Agenda
 
-The workshop agenda is (all times US Pacific (PDT; UTC-7)):
+The workshop agenda was (all times US Pacific (PDT; UTC-7)):
 - **7-7:10 am**: *Welcome, introductions, and purpose*; David Mobley (UCI)
 - **7:10-7:50 am**: *Experiments and overview of results*, Mehtap Isik (MSKCC); 30 minute talk + 10 minutes of questions/discussion.
 - **7:50-8:05 am**: *log P Predictions Using SMx or LSER With Training Data from DrugBank.ca*, Andrew Paluch (Miami University, Ohio)
