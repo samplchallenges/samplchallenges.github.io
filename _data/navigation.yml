@@ -10,6 +10,13 @@ workshops.md:
   - title: Upcoming SAMPL workshops
     url: /current/workshops/index.html#
     children:
+    - title: The 2019 D3R/SAMPL Joint Workshop
+      url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
+    - title: Other potential workshops
+      url: /current/workshops/index.html#other-potential-workshops
+  - title: Previous recent workshops
+    url: /current/workshops/index.html#previous-recent-workshops
+    children:
     - title: The SAMPL6 LogP Virtual Workshop
       url: /current/workshops/index.html#the-sampl6-logp-virtual-workshop
       children:
@@ -17,12 +24,6 @@ workshops.md:
         url: /current/workshops/index.html#overviewpurpose
       - title: Agenda
         url: /current/workshops/index.html#agenda
-      - title: Connection details
-        url: /current/workshops/index.html#connection-details
-    - title: The 2019 D3R/SAMPL Joint Workshop
-      url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
-    - title: Other potential workshops
-      url: /current/workshops/index.html#other-potential-workshops
 
 submissions.md:
   - title: SAMPL submissions and evaluation
@@ -73,8 +74,8 @@ plans.md:
         url: /roadmap/plans/index.html#the-nanoluc-challenges
     - title: SAMPL9 plans (Sept. 1, 2020 through Aug. 31, 2021)
       url: /roadmap/plans/index.html#sampl9-plans-sept-1-2020-through-aug-31-2021
-    - title: SAMPL10 plans (Sept. 1, 20201 through Aug. 31, 2022)
-      url: /roadmap/plans/index.html#sampl10-plans-sept-1-20201-through-aug-31-2022
+    - title: SAMPL10 plans (Sept. 1, 2021 through Aug. 31, 2022)
+      url: /roadmap/plans/index.html#sampl10-plans-sept-1-2021-through-aug-31-2022
   - title: Properties of interest
     url: /roadmap/plans/index.html#properties-of-interest
 
