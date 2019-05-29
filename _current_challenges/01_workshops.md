@@ -23,7 +23,7 @@ Participation is relatively limited but we are checking on whether virtual atten
 
 ## The SAMPL6 LogP Virtual Workshop
 
-We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, beginning at 7 am US Pacific time.  [SAMPL6 logP virtual workshop video](https://www.youtube.com/watch?v=FWUPXG8U3UE) is now available.
+We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, beginning at 7 am US Pacific time.  [SAMPL6 logP virtual workshop video](https://www.youtube.com/watch?v=FWUPXG8U3UE) and [presentation slides](https://github.com/choderalab/SAMPL6-logP-challenge-virtual-workshop) are now available.
 
 ### Overview/Purpose
 
