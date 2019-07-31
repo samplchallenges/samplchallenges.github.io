@@ -32,6 +32,8 @@ feature_row:
 
 {% include feature_row %}
 
+Please note that now (as of July 2019), our SAMPL7 host-guest challenge is live on the [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7)!
+
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). We also have e-mail lists for individual challenges which are available from the GitHub sites associated with each challenge or challenge component.
 
 [Video from our recent SAMPL6 logP virtual workshop](https://www.youtube.com/watch?v=FWUPXG8U3UE) is now available.
