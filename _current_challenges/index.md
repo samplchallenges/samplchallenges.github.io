@@ -9,16 +9,18 @@ header:
 excerpt: "Current and upcoming SAMPL challenges and meetings"
 ---
 
-## Upcoming challenges
-
-Several SAMPL7 challenges will launch in the immediate future, including:
+## Current challenges
+Currently we are running three host-guest binding challenges, with tentative submission deadlines of Oct. 1, 2019, including:
 - Host-guest binding on octa acid derivatives (Gibb lab)
 - Host-guest binding on modified cyclodextrin derivatives (Gilson lab)
 - Host-guest binding on a glycouril clip-like host (Isaacs lab)
+Details of these are available on the [SAMPL7 GitHub repository](https://github.com/mobleylab/SAMPL7).
 
-Preliminary details of these are being posted to the [SAMPL7 GitHub repository](https://github.com/mobleylab/SAMPL7).
+## Upcoming challenges
 
-We are also working with GSK on data collection for a partitioning challenge, and with NCATS on data collection for two potential protein-ligand binding challenges (on HSA and NanoLuc binding). Depending on data collection timescales these may comprise part of the SAMPL7 series, or may become part of SAMPL8.
+Several additional challenges are planned as part of the SAMPL7 series. 
+Most immediately, we are working with GSK on data collection for a partitioning challenge, and with NCATS on data collection for two potential protein-ligand binding challenges (on HSA and NanoLuc binding). Depending on data collection timescales these may comprise part of the SAMPL7 series, or may become part of SAMPL8.
+As the GSK logD dataset is currently in the data collection phase, we tentatively expect it will be part of SAMPL7, likely in late 2019 or early 2020.
 See our [roadmap](https://samplchallenges.github.io/roadmap/) pages for more details.
 
 Please sign up for our [SAMPL7 e-mail list](http://eepurl.com/gpBBun) for e-mail announcements, and bookmark (and watch) our [SAMPL7 GitHub repository](https://github.com/MobleyLab/SAMPL7).
