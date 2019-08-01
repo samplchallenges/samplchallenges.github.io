@@ -19,7 +19,7 @@ Details of these are available on the [SAMPL7 GitHub repository](https://github.
 ## Upcoming challenges
 
 Several additional challenges are planned as part of the SAMPL7 series. 
-Most immediately, we working with GSK on data collection for a partitioning challenge, and with NCATS on data collection for two potential protein-ligand binding challenges (on HSA and NanoLuc binding). Depending on data collection timescales these may comprise part of the SAMPL7 series, or may become part of SAMPL8.
+Most immediately, we are working with GSK on data collection for a partitioning challenge, and with NCATS on data collection for two potential protein-ligand binding challenges (on HSA and NanoLuc binding). Depending on data collection timescales these may comprise part of the SAMPL7 series, or may become part of SAMPL8.
 As the GSK logD dataset is currently in the data collection phase, we tentatively expect it will be part of SAMPL7, likely in late 2019 or early 2020.
 See our [roadmap](https://samplchallenges.github.io/roadmap/) pages for more details.
 
