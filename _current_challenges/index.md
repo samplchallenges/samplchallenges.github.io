@@ -10,10 +10,11 @@ excerpt: "Current and upcoming SAMPL challenges and meetings"
 ---
 
 ## Current challenges
-Currently we are running three host-guest binding challenges, with tentative submission deadlines of Oct. 1, 2019, including:
-- Host-guest binding on octa acid derivatives (Gibb lab)
-- Host-guest binding on modified cyclodextrin derivatives (Gilson lab)
-- Host-guest binding on a glycouril clip-like host (Isaacs lab)
+Currently we are running three host-guest binding challenges, with submission deadlines in October and November, 2019, including:
+- Host-guest binding on octa acid derivatives (Gibb lab); deadline Nov. 1, 2019.
+- Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline Nov. 1, 2019
+- Host-guest binding on a glycouril clip-like host (Isaacs lab); deadline Oct. 1, 2019
+
 Details of these are available on the [SAMPL7 GitHub repository](https://github.com/mobleylab/SAMPL7).
 
 ## Upcoming challenges
