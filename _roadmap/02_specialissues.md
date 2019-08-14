@@ -10,8 +10,9 @@ permalink: /roadmap/specialissues/
 ## SAMPL6 logP Challenge
 
 In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL6 LogP challenge.
-The submission deadline for this is Sept. 15, 2019, with submissions opening prior to our August 2019 workshop for those who would like to submit early.
+The submission deadline for this is Oct. 15, 2019, and the issue is already open for submission.
 As usual, papers are expected to appear online in advance of their publication in the special issue as soon as they are ready unless otherwise requested.
+Articles will typically appear in the final issue in order of submission, and the first few articles get priority for selection for cover artwork.
 
 ## General plans for future special issues
 
