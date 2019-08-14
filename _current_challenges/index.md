@@ -30,7 +30,7 @@ Note that, in contrast to SAMPL0-5, the SAMPL numbering system now corresponds t
 
 ## Wrapping up SAMPL6
 
-SAMPL6 Part II, which is currently in the analysis phase, focused on an octanol-water log P prediction challenge. The Log P prediction challenge will be followed by a joint D3R/SAMPL workshop in San Diego, Aug 22-23, 2019, immediately before the San Diego ACS National Meeting; a virtual workshop is planned for May 16, 2019 (contact David Mobley if you are interested in attending). [A special issue of JCAMD is planned](https://samplchallenges.github.io/roadmap/specialissues/) with a submission deadline of Sept. 15. Join our [SAMPL6 e-mail list](http://eepurl.com/gaAA0H) if you would like announcements pertaining to these events.
+SAMPL6 Part II, which is currently in the analysis phase, focused on an octanol-water log P prediction challenge. The Log P prediction challenge will be followed by a joint D3R/SAMPL workshop in San Diego, Aug 22-23, 2019, immediately before the San Diego ACS National Meeting; a virtual workshop is planned for May 16, 2019 (contact David Mobley if you are interested in attending). [A special issue of JCAMD is planned](https://samplchallenges.github.io/roadmap/specialissues/) with a submission deadline of Oct. 15 (with articles typically appearing in submission order, and the first few articles getting priority for cover art). Join our [SAMPL6 e-mail list](http://eepurl.com/gaAA0H) if you would like announcements pertaining to these events.
 
 
 {% for collection in site.collections %}
