@@ -32,10 +32,10 @@ feature_row:
 
 {% include feature_row %}
 
-Please note that now (as of July 2019), our SAMPL7 host-guest challenge is live on the [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7)!
+We just announced details of the PHIP2 bromodomain binding challenge on our [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7) and here under "Current challenges". Additionally, our SAMPL7 host-guest challenge is still ongoing on the [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7) as well.
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). We also have e-mail lists for individual challenges which are available from the GitHub sites associated with each challenge or challenge component.
 
-[Video from our recent SAMPL6 logP virtual workshop](https://www.youtube.com/watch?v=FWUPXG8U3UE) is now available.
+[Video from our recent SAMPL6 logP virtual workshop](https://www.youtube.com/watch?v=FWUPXG8U3UE) is now available. And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content.
 
 **Data donation**: If you have, or can generate, high quality datasets which might be suitable for a future SAMPL challenge, please contact us, or see our Roadmap page for additional information on types of data which may be of particular interest.
