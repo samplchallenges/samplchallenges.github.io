@@ -26,6 +26,12 @@ However, for SAMPL7 onwards, we are modestly changing our policy on multiple sub
 
 We believe that having these two categories will allow us to continue to play a valuable role in helping participants maximize what they learn by trying multiple methods when warranted, while also ensuring that participants applying multiple methods or method variations do not receive an unfair advantage in judging.
 
+**If you are involved in multiple projects or teams, should your submissions be ranked?** In some cases, participants may be involved in multiple distinct teams participating in SAMPL, which raises the question as to whether submissions from multiple such teams violates the restriction on ranked submissions. Several guidelines may be helpful in deciding whether multiple submissions from distinct teams can all be ranked:
+- Are the methods significantly different? If partially overlapping teams employ dramatically different approaches in a challenge, this would not violate the restriction on multiple submissions. But if the teams are similar and the methods are only very slightly different (perhaps what an expert in the specific area would see as minor variations on the same method) these would violate the restriction.
+- Are the submissions being done to compare approaches? If the teams in question are comparing approaches deliberately, then only one submission should be ranked. But if the teams are separately doing the best job possible and seeking to compete with one another, then multiple submissions might be ranked.
+
+The spirit of this rule is to ensure that no participant gets an unfair advantage by having multiple shots on goal, so decisions as to what ought to be a "ranked" submission should be made in that light, especially when teams of participants are involved.
+
 ## External evaluation
 
 For SAMPL7 onwards, we seek to shift to using (or being aided by) external evaluators in judging SAMPL performance. If you are willing to assist with this, please contact David Mobley.
