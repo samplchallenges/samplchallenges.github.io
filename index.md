@@ -32,7 +32,7 @@ feature_row:
 
 {% include feature_row %}
 
-We just announced details of the PHIP2 bromodomain binding challenge on our [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7) and here under "Current challenges". Additionally, our SAMPL7 host-guest challenge is still ongoing on the [SAMPL7 GitHub repository](https://github.com/mobleylab/sampl7) as well.
+Current SAMPL challenges are closed, but stay tuned for additional challenges within SAMPL7, and for announcements relating to the SAMPL8 phase of challenges. Also, [note our **upcoming EuroSAMPL 2020 meeting**](/assets/pdf/EuroSAMPL2020.pdf).
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). We also have e-mail lists for individual challenges which are available from the GitHub sites associated with each challenge or challenge component.
 

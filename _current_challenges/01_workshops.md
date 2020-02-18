@@ -7,23 +7,24 @@ excerpt: Details of upcoming SAMPL in-person and virtual workshops, including ag
 permalink: /current/workshops/
 ---
 
-## The 2019 D3R/SAMPL Joint Workshop
+## EuroSAMPL2020
 
-The next [face-to-face workshop](https://drugdesigndata.org/about/d3r-2019-workshop) is Aug. 22-23, 2019 in San Diego, joint with D3R.
-Participation is relatively limited but we are checking on whether virtual attendance is a possibility.
+We're delighted to announce that we're running an in-person workshop in Mainz, Germany, Oct. 4-5, 2020, [**EuroSAMPL 2020**](/assets/pdf/EuroSAMPL2020.pdf), as a satellite meeting of the German Conference on Cheminformatics. Participants are encouraged to join both workshops.  
 
 ## Other potential workshops
 
-- **Possible** inaugural EuroSAMPL workshop, Nov. 4-5, 2020, following GCC 2020 in Mainz, Germany; this is pending funding and other details and is not yet confirmed.
 - SAMPL 2021, dates TBD, Irvine, CA
 - Possible EuroSAMPL in 2021 or 2022
 - SAMPL 2022, dates TBD, Irvine, CA
 
-# Previous recent workshops
+# Previous workshops
+
+We had a 2019 [face-to-face workshop](https://drugdesigndata.org/about/d3r-2019-workshop) Aug. 22-23, 2019 in San Diego, joint with D3R. Due to technical difficulties, talk recordings are in general not available, unfortunately.
+
 
 ## The SAMPL6 LogP Virtual Workshop
 
-We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, beginning at 7 am US Pacific time.  [SAMPL6 logP virtual workshop video](https://www.youtube.com/watch?v=FWUPXG8U3UE) and [presentation slides](https://github.com/choderalab/SAMPL6-logP-challenge-virtual-workshop) are now available.
+We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, 2019, beginning at 7 am US Pacific time.  [SAMPL6 logP virtual workshop video](https://www.youtube.com/watch?v=FWUPXG8U3UE) and [presentation slides](https://github.com/choderalab/SAMPL6-logP-challenge-virtual-workshop) are now available.
 
 ### Overview/Purpose
 
