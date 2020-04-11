@@ -15,6 +15,8 @@ Over time we plan to bring data packages for legacy SAMPL challenges online as t
 
 - [SAMPL5 logD challenge](https://github.com/MobleyLab/SAMPL5_logD_PredictionAnalysis)
 - [SAMPL6](https://github.com/mobleylab/sampl6)
+- [SAMPL7](https://github.com/samplchallenges/sampl7)
+    - [SAMPL7 host-guest virtual workshop](https://dx.doi.org/10.5281/zenodo.3674155): DOI 10.5281/zenodo.3674155
 
 ## Summaries
 

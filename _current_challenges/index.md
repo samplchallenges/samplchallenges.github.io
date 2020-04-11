@@ -21,6 +21,8 @@ Challenges are currently closed; however, we are likely to soon frame a PHIP2 St
 - Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline was Nov. 1, 2019
 - Host-guest binding on a glycouril clip-like host (Isaacs lab); deadline was Oct. 1, 2019
 
+Our [SAMPL7 host-guest virtual workshop](http://dx.doi.org/10.5281/zenodo.3674155) is available at this DOI: [10.5281/zenodo.3674155](http://dx.doi.org/10.5281/zenodo.3674155)
+
 Details of these, along with submission formats, are available on the [SAMPL7 GitHub repository](https://github.com/mobleylab/SAMPL7). Submissions are accepted via our [AWS submission page](http://sampl-submission.us-west-1.elasticbeanstalk.com/submit/).
 
 ### More on the PHIP2 binding challenge
