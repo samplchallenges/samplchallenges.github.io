@@ -26,11 +26,11 @@ For physical property prediction, we will likely revisit partitioning and distri
 
 For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is minimal. Thus it is likely we will revisit nonpolar to water distribution in SAMPL7, and polar-to-water distribution in subsequent challenges. We also plan to progress in terms of pKa, initially providing pKa values (if we can get these measured) and later transitioning to requiring participants to predict pKa values.
 
-## SAMPL7 plans (present through late 2019)
+## SAMPL7 plans (present through 2020)
 
 SAMPL7 is planned to include:
 - Host-guest binding challenges on Isaacs' TrimerTrip, Gibb's GDCC's, and cyclodextrin derivatives from the Gilson lab
-- Physical property prediction (log D, likely between water and a non-octanol solvent), given pKa values, with data available in summer or Fall 2019; this is a partnership with GSK.
+- Physical property prediction (log D, likely between water and a non-octanol solvent), given pKa values, with data available in summer 2020; this is a partnership with GSK.
 
 Potentially the logD property prediction could be bumped to early in the SAMPL8 challenge depending on progress of data collection.
 
@@ -40,20 +40,13 @@ The measurements are being generated in partnership with GlaxoSmithKline. The lo
 
 We are looking into future physical property challenges that include aqueous partition coefficients for a range of water-solvent systems including octanol, heptane, cyclohexane and possibly non-aqueous pairs such as cyclohexane/methanol and heptane/acetonitrile. We are working with GSK on logD and potentially pKa measurement on a diverse molecule set for partitioning into multiple solvents, and this same set will likely be revisited for several challenges, with SAMPL7 focusing on logD into a nonpolar solvent, potentially given pKa values.
 
-## SAMPL8 plans (late 2019 through Aug. 2020)
+## SAMPL8 plans (beginning summer 2020)
 
-- NanoLuc binding challenge, Fall 2019
-- HSA binding challenge, Winter 2020
-- Physical properties challenge, Spring 2020, likely revisiting the same compound set as the logD challenge but including for more polar solvents such as octanol (and perhaps withholding pKa).
-- Host-guest challenges, prior to Summer 2020
-
-### The SAMPL8 HSA challenge
-
-The HSA series of challenges will focus on predicting binding affinities and binding sites of compounds binding to human serum albumin. HSA is known have ligands which bind in a variety of binding sites with significant affinity. Small soluble molecules resembling drug fragments are highly likely to bind to HSA (>= 90% of such fragments with Kd tighter than ~480 uM). Collaborating with the National Center for Advancing Translational Sciences (NCATS) opens up the possibility for multiple different assays to be performed, each providing different kinds of binding information. For example, thermofluor assays, microscale thermophoresis, fluorescence competition assays and tryptophan fluorescence quenching are all currently being considered.
-
-Wild-type HSA has more than 7 binding sites.
-Two binding sites, Sudlow Site I and Sudlow Site II are known major drug binding sites.
-We plan to focus on predicting binding to Sudlow Site I and II in this challenge. Challenge participants may be asked to predict the binding site of each ligand and what the affinities are. Ligands would be fragment-like or drug-like molecules.
+- NanoLuc binding challenge, Fall 2020
+- ~~HSA binding challenge, Winter 2020~~
+- Physical properties challenge, TBD; we are pursuing several possibilities
+- Host-guest challenges, Summer 2020
+    - We have just launched a [SAMPL8 host-guest challenge on CB8](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8)
 
 ### The NanoLuc challenges
 
@@ -64,13 +57,13 @@ The NanoLuc challenge will likely involve prediction of affinities of drug-like 
 However, since NCATS has screened hundreds of thousands of compounds for binding to NanoLuc, the binding affinity prediction component may be preceded by a virtual screening challenge that involves attempting to pick active compounds out of a library of verified nonbinders.
 
 
-## SAMPL9 plans (Sept. 1, 2020 through Aug. 31, 2021)
+## SAMPL9 plans (2021?)
 
 - Physical property challenge (likely on pKa with Paul Czodrowski; late 2020); whether we revisit logD again will depend on the outcomes of SAMPL7 and 8.
 - Host-guest binding challenges, summer 2021
 - Protein-ligand binding challenge TBD
 
-## SAMPL10 plans (Sept. 1, 2021 through Aug. 31, 2022)
+## SAMPL10 plans (2021-2022?)
 
 - Physical property challenge
 - Host-guest binding challenge
