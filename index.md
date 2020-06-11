@@ -32,10 +32,10 @@ feature_row:
 
 {% include feature_row %}
 
-Currently, [we are launching the first SAMPL8 challenge with host-guest binding to CB8](https://github.com/samplchallenges/sampl8). Also, stay tuned for additional challenges within SAMPL7 -- particularly, on physical property prediction -- and for further announcements relating to the SAMPL8 phase of challenges. Also, note that our EuroSAMPL workshop in Fall 2020 s being converted to an online format, and details for that will be out shortly.
+Currently, [we are launching the first SAMPL8 challenge with host-guest binding to CB8](https://github.com/samplchallenges/sampl8). Also, stay tuned for additional challenges within SAMPL7 -- particularly, on physical property prediction -- and for further announcements relating to the SAMPL8 phase of challenges. Also, note that our EuroSAMPL workshop in Fall 2020 is being converted to an online format, and details for that will be out shortly.
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j).
 
-[Our SAMPL7 host-guest challenge virtual workshop is up online](https://zenodo.org/record/3674155) And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content.
+[Our SAMPL7 host-guest challenge virtual workshop is up online](https://zenodo.org/record/3674155). And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content.
 
 **Data donation**: If you have, or can generate, high quality datasets which might be suitable for a future SAMPL challenge, please contact us, or see our Roadmap page for additional information on types of data which may be of particular interest.
