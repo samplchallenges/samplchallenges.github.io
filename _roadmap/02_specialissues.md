@@ -3,7 +3,7 @@ layout: single
 sidebar:
   nav: specialissues.md
 title: SAMPL special issues and sections
-excerpt: Plans for upcoming SAMPL special issues and special sections
+excerpt: Plans for upcoming SAMPL special issues and special sections. For previous special issues, see [our history](https://samplchallenges.github.io/history/references/)
 permalink: /roadmap/specialissues/
 ---
 
