@@ -3,13 +3,15 @@ layout: single
 sidebar:
   nav: specialissues.md
 title: SAMPL special issues and sections
-excerpt: Plans for upcoming SAMPL special issues and special sections. For previous special issues, see [our history](https://samplchallenges.github.io/history/references/)
+excerpt: Plans for upcoming SAMPL special issues and special sections. For previous special issues, see History
 permalink: /roadmap/specialissues/
 ---
 
+For past SAMPL special issues, [please refer to our history](https://samplchallenges.github.io/history/references/).
+
 ## SAMPL7 host-guest Challenge
 
-In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL7 LogP challenge.
+In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL7 host-guest challenge.
 The submission deadline for this is July 1, 2020, and the issue is already open for submission.
 As usual, papers are expected to appear online in advance of their publication in the special issue as soon as they are ready unless otherwise requested.
 Articles will typically appear in the final issue in order of submission, and the first few articles get priority for selection for cover artwork.

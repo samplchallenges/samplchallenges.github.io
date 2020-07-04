@@ -17,9 +17,13 @@ The various SAMPL challenges are described in:
 - [SAMPL5 distribution coefficients](http://link.springer.com/journal/10822/30/11/page/1): Special issue of *J. Computer-Aided Molecular Design*, volume 30(11), 2016.
 - [SAMPL5 host-guest binding](https://link.springer.com/journal/10822/31/1/page/1): Special issue of *J. Computer-Aided Molecular Design*, volume 31(1), 2017
 - [SAMPL6 host-guest binding and pKa prediction](https://link.springer.com/journal/10822/32/10?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_campaign=toc_10822_32_10): Special issue of *J. Computer-Aided Molecular Design*, volume 32(1), 2018
+- [SAMPL6 Part 2 Issue 1: Octanol-water logP](https://link.springer.com/journal/10822/34/4): Special issue of *J. Computer-Aided Molecular Design*, volume 34(4), 2020
+- [SAMP6 Part 2 Issue 2: Octanol-water logP](https://link.springer.com/journal/10822/34/5): Special issue of *J. Computer-Aided Molecular Design*, volume 34(5), 2020
+
+Our SAMPL7 host-guest special issue is (as of summer 2020) wrapping up the submission process.
 
 [The SAMPL Wikipedia page](https://en.wikipedia.org/wiki/SAMPL_Challenge) also has helpful background information.
 
 ## Additional references
 
-A full list of the 100 SAMPL references we have identified is also available in the [SAMPL proposal](http://escholarship.org/uc/item/7cf8c6cr); we plan to propagate a complete reference list to this website at some point. Please contact Danielle Bergazin (bergazin ‘at’ uci.edu) if you are aware of any additional references which should be included.
+A full list of some 100 SAMPL references we previously identified is also available in the [SAMPL proposal](http://escholarship.org/uc/item/7cf8c6cr); we plan to propagate a complete reference list to this website at some point. Typically all SAMPL papers cite "SAMPLN" in their titles, where N is a number, e.g. "SAMPL7", making these easy to discover via Google Scholar, Web of Science or similar search engines.
