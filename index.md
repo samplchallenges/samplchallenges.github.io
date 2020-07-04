@@ -32,7 +32,7 @@ feature_row:
 
 {% include feature_row %}
 
-Currently, [we are launching the first SAMPL8 challenge with host-guest binding to CB8](https://github.com/samplchallenges/sampl8). Also, stay tuned for additional challenges within SAMPL7 -- particularly, on physical property prediction -- and for further announcements relating to the SAMPL8 phase of challenges. Also, note that our EuroSAMPL workshop in Fall 2020 is being converted to an online format, and details for that will be out shortly.
+Currently, [we are running a SAMPL7 physical properties challenge on pKa/logP (and PAMPA permeability)](https://github.com/samplchallenges/SAMPL7/tree/master/physical_property). Additionally, we launched [the first SAMPL8 challenge with host-guest binding to CB8](https://github.com/samplchallenges/sampl8). **For deadlines please refer to the relevant GitHub sites.** Stay tuned for further announcements relating to the SAMPL8 phase of challenges, and see our [roadmap](https://samplchallenges.github.io/roadmap/plans/) for what we can announce so far. Note that our EuroSAMPL workshop in Fall 2020 is being converted to an online format, and details for that will be out shortly.
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j).
 

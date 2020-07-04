@@ -14,7 +14,7 @@ As of SAMPL7-10, our NIH funding allows us to be somewhat more strategic in plan
 - Host-guest binding
 - Protein-ligand binding
 
-SAMPL is now broken into phases, each running roughly a year, with each phase encompassing several component challenges. [Workshop plans](https://samplchallenges.github.io/current/workshops/) are detailed separately.
+SAMPL is now broken into phases, each running roughly a year, with each phase encompassing several component challenges. [Workshop plans](https://samplchallenges.github.io/current/workshops/) are detailed separately. In some cases SAMPL phases may overlap slightly; e.g. we're wrapping up SAMPL7 with a physical property challenge while launching the first SAMPL8 host-guest challenge as of July 2020.
 
 The Gibb and Isaacs groups, focusing on host-guest binding, plan to collect regular data on host-guest binding, and protein-ligand binding assays are coming online in the Chodera lab. Physical property data, however, relies on planned industry internships and other partnerships.
 
@@ -26,27 +26,25 @@ For physical property prediction, we will likely revisit partitioning and distri
 
 For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is minimal. Thus it is likely we will revisit nonpolar to water distribution in SAMPL7, and polar-to-water distribution in subsequent challenges. We also plan to progress in terms of pKa, initially providing pKa values (if we can get these measured) and later transitioning to requiring participants to predict pKa values.
 
-## SAMPL7 plans (present through 2020)
+## SAMPL7 plans (concluding in 2020)
 
-SAMPL7 is planned to include:
+[SAMPL7](https://github.com/samplchallenges/sampl7) is relatively complete, having included:
 - Host-guest binding challenges on Isaacs' TrimerTrip, Gibb's GDCC's, and cyclodextrin derivatives from the Gilson lab
-- Physical property prediction (log D, likely between water and a non-octanol solvent), given pKa values, with data available in summer 2020; this is a partnership with GSK.
+- PHIPA fragment binding prediction, though analysis is still wrapping up.
 
-Potentially the logD property prediction could be bumped to early in the SAMPL8 challenge depending on progress of data collection.
+However, the following aspects are still ongoing:
+- Physical property prediction for a congeneric series; participants may predict (octanol-water) logP, pKa, or both. PAMPA permeability values are also optional. This is a partnership with the Ballatore lab at UCSD.
 
-### The SAMPL7 physical property challenge
-
-The measurements are being generated in partnership with GlaxoSmithKline. The logD challenge will focus on an octanol-water log D prediction set, with pKa’s possibly made available. The prediction set will contain  around 50 molecules, with focus on fragment-like compounds, matched molecular pairs, large dynamic range, and functional group diversity.
-
-We are looking into future physical property challenges that include aqueous partition coefficients for a range of water-solvent systems including octanol, heptane, cyclohexane and possibly non-aqueous pairs such as cyclohexane/methanol and heptane/acetonitrile. We are working with GSK on logD and potentially pKa measurement on a diverse molecule set for partitioning into multiple solvents, and this same set will likely be revisited for several challenges, with SAMPL7 focusing on logD into a nonpolar solvent, potentially given pKa values.
+Our GSK physical property challenge has been shifted to SAMPL8; while data collection is complete, we are still awaiting final approval for data release.
 
 ## SAMPL8 plans (beginning summer 2020)
 
-- NanoLuc binding challenge, Fall 2020
-- ~~HSA binding challenge, Winter 2020~~
-- Physical properties challenge, TBD; we are pursuing several possibilities
-- Host-guest challenges, Summer 2020
-    - We have just launched a [SAMPL8 host-guest challenge on CB8](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8)
+- NanoLuc binding challenge (date TBD pending delays at NCATS)
+- ~~HSA binding challenge, Winter 2020~~ (scrapped due to experimental limitations)
+- Physical properties challenge, described below, likely early 2021
+- Host-guest challenges, Summer 2020 onwards:
+    - We have just launched a [SAMPL8 host-guest challenge on CB8](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8) as of June 2020.
+    - Data collection on modified cyclodextrins and Gibb deep cavity cavitands has been delayed by COVID-19 but will likely commence in late summer/early fall 2020, potentially leading to a challenge in late 2020 or early 2021.
 
 ### The NanoLuc challenges
 
@@ -55,6 +53,13 @@ This data will be divided into sets of similar ligand complexities for sequentia
 
 The NanoLuc challenge will likely involve prediction of affinities of drug-like molecules to a single binding site.
 However, since NCATS has screened hundreds of thousands of compounds for binding to NanoLuc, the binding affinity prediction component may be preceded by a virtual screening challenge that involves attempting to pick active compounds out of a library of verified nonbinders.
+
+
+### The SAMPL8 physical property challenge
+
+The SAMPL8 physical property challenge will focus on log D. Data is currently coming in (as of summer 2020) but in view of the current SAMPL7 physical property challenge we will likely launch this in early 2021.
+
+The measurements have been conducted in partnership with GlaxoSmithKline. The logD challenge will focus on a log D prediction set, with pKa’s possibly made available. The prediction set will contain a relatively small number of fragment-like molecules and examine distribution into diverse solvents.
 
 
 ## SAMPL9 plans (2021?)
@@ -68,6 +73,9 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 - Physical property challenge
 - Host-guest binding challenge
 - Protein-ligand binding challenge
+
+## Other datasets possibly en route
+- With Scott Lokey (UCSC) we are exploring a potential challenge on cyclic peptide logP between water and hydrocarbons. Some of the Lokey lab's data is particularly interesting as conformational effects play a major role in partitioning.
 
 # Properties of interest
 
