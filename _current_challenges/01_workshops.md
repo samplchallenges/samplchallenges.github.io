@@ -9,7 +9,9 @@ permalink: /current/workshops/
 
 ## The 2020 SAMPL Virtual workshop
 
-We're running a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it has been switched to a virtual format and timing is being set to allow for US participation. This will be a satellite meeting of the German Conference on Cheminformatics (GCC). Participants are encouraged to join both workshops.  
+We're running a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it has been switched to a virtual format and timing is being set to allow for US participation. This will be a satellite meeting of the German Conference on Cheminformatics (GCC). Participants are encouraged to join both workshops.  [Full details are available on the GCC/SAMPL2020 site](https://www.gdch.de/gcc2020).
+
+This is a satellite workshop of the related GCC workshop, and is being set at a time to work well for both European and US participants. The SAMPL satellite workshop will encompass invited lectures and contributions from participants at the recent SAMPL blinded challenge on predicting protein-ligand and guest-host properties as well as potentially the current small molecule properties challenge. This will give participants the opportunity to present and learn about state-of-the-art computational methodology benchmarked against high-quality experimental data. SAMPL lectures will take place from 1 p.m. to 9 p.m. (CET) to ease participation of North and South American residents.
 
 ## Other potential workshops
 
