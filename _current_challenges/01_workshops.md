@@ -16,7 +16,7 @@ This is a satellite workshop of the related GCC workshop, and is being set at a 
 ## Other potential workshops
 
 - SAMPL 2021, dates TBD, Irvine, CA
-- EuroSAMPL in Mainz, Germany in 2021 (rescheduled from 2020))
+- EuroSAMPL in Mainz, Germany in 2021: Co-run with GCC 2021, the pair of workshops will take place back-to-back Oct. 31-Nov. 4, 2021, COVID status permitting.
 - SAMPL 2022, dates TBD, Irvine, CA
 
 # Previous workshops
