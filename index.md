@@ -41,3 +41,5 @@ To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list
 [Our SAMPL7 host-guest challenge virtual workshop is up online](https://zenodo.org/record/3674155). And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content.
 
 **Data donation**: If you have, or can generate, high quality datasets which might be suitable for a future SAMPL challenge, please contact us, or see our Roadmap page for additional information on types of data which may be of particular interest.
+
+**Positions**: We are currently hiring a software scientist to assist in creating a branch of SAMPL which involves submission of containerized methods rather than predictions. If you are [interested, please apply via this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdr2rT_AjU0oFVZj-rr6cpxk3Z6jx6_kocpca7INiChV0AIoQ/viewform?usp=sf_link) or contact David Mobley.
