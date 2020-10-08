@@ -40,3 +40,9 @@ In general, review criteria for SAMPL special issues are modestly different than
 and otherwise ensure that they meet the standards of the journal.
 
 Additionally, as a particular focus of SAMPL is on lessons learned, authors are urged to pay devote careful attention to highlighting what was learned from participation and how it might be of benefit to the field or to others employing similar methodologies.
+
+## Submitters/participants often review papers
+
+Normally, we **expect** challenge participants to be willing to review one another's papers with the criteria above in mind. We do not see this as a conflict of interest (or rather, the editor will serve to try and defray/moderate any potential conflicts) since these are blind challenges, and subject to the review criteria above. In other words, participants are typically entitled to report what they did, even if the reviewer(s) are not completely enthusiastic about the approach. Additionally, we see participants as uniquely qualified to review one another's papers, as they are familiar with the specific dataset(s) and may be aware of nuances and complexities that other participants should be made aware of.
+
+Given this, we highly encourage participants to accept requests to review papers by other participants, to the extent reasonably possible.
