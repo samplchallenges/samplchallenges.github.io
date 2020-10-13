@@ -46,3 +46,11 @@ Additionally, as a particular focus of SAMPL is on lessons learned, authors are 
 Normally, we **expect** challenge participants to be willing to review one another's papers with the criteria above in mind. We do not see this as a conflict of interest (or rather, the editor will serve to try and defray/moderate any potential conflicts) since these are blind challenges, and subject to the review criteria above. In other words, participants are typically entitled to report what they did, even if the reviewer(s) are not completely enthusiastic about the approach. Additionally, we see participants as uniquely qualified to review one another's papers, as they are familiar with the specific dataset(s) and may be aware of nuances and complexities that other participants should be made aware of.
 
 Given this, we highly encourage participants to accept requests to review papers by other participants, to the extent reasonably possible.
+
+## Acknowledging and citing SAMPL
+
+If you've benefitted from our work on the SAMPL series of challenges, please be sure to acknowledge our SAMPL NIH grant in any publications/presentations. This funded host-guest experiments, as well as our work organizing and administrating these challenges. You may acknowledge SAMPL by saying something like, "We appreciate the National Institutes of Health for its support of the SAMPL project via R01GM124270 to David L. Mobley (UC Irvine)."
+
+We also ask you to cite the SAMPL dataset(s) you used. These are versioned on Zenodo, and a link will be available from the SAMPL repository for the challenge in which you participated.
+
+Of course, we also appreciate it if you cite any overview/experimental papers relevant to the particular SAMPL challenge you participated in.

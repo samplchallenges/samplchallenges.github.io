@@ -43,3 +43,11 @@ To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list
 **Data donation**: If you have, or can generate, high quality datasets which might be suitable for a future SAMPL challenge, please contact us, or see our Roadmap page for additional information on types of data which may be of particular interest.
 
 **Positions**: We are currently hiring a software scientist to assist in creating a branch of SAMPL which involves submission of containerized methods rather than predictions. If you are [interested, please apply via this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdr2rT_AjU0oFVZj-rr6cpxk3Z6jx6_kocpca7INiChV0AIoQ/viewform?usp=sf_link) or contact David Mobley.
+
+## Acknowledging and citing SAMPL
+
+If you've benefitted from our work on the SAMPL series of challenges, please be sure to acknowledge our SAMPL NIH grant in any publications/presentations. This funded host-guest experiments, as well as our work organizing and administrating these challenges. You may acknowledge SAMPL by saying something like, "We appreciate the National Institutes of Health for its support of the SAMPL project via R01GM124270 to David L. Mobley (UC Irvine)."
+
+We also ask you to cite the SAMPL dataset(s) you used. These are versioned on Zenodo, and a link will be available from the SAMPL repository for the challenge in which you participated.
+
+Of course, we also appreciate it if you cite any overview/experimental papers relevant to the particular SAMPL challenge you participated in.
