@@ -5,7 +5,8 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/hosts.jpg
+  #overlay_image: /assets/images/hosts.jpg
+  overlay_image: /assets/images/logo.png
 excerpt: "Challenge information and announcements"
 intro:
   - excerpt: 'This contains information, plans, and announcements relating to the Statistical Assessment of Modeling of Proteins and Ligands (SAMPL) series of blind predictive challenges.
