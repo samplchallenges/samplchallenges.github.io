@@ -5,8 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  #overlay_image: /assets/images/hosts.jpg
-  overlay_image: /assets/images/logo.png
+  overlay_image: /assets/images/hosts.jpg
 excerpt: "Challenge information and announcements"
 intro:
   - excerpt: 'This contains information, plans, and announcements relating to the Statistical Assessment of Modeling of Proteins and Ligands (SAMPL) series of blind predictive challenges.
@@ -52,3 +51,5 @@ If you've benefitted from our work on the SAMPL series of challenges, please be 
 We also ask you to cite the SAMPL dataset(s) you used. These are versioned on Zenodo, and a link will be available from the SAMPL repository for the challenge in which you participated.
 
 Of course, we also appreciate it if you cite any overview/experimental papers relevant to the particular SAMPL challenge you participated in.
+
+~[](assets/images/logo.png)
