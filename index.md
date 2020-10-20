@@ -52,4 +52,4 @@ We also ask you to cite the SAMPL dataset(s) you used. These are versioned on Ze
 
 Of course, we also appreciate it if you cite any overview/experimental papers relevant to the particular SAMPL challenge you participated in.
 
-~[](assets/images/logo.png)
+![](assets/images/logo.png)
