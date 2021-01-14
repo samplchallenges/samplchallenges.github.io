@@ -34,7 +34,7 @@ feature_row:
 
 Currently, we are running [a SAMPL8 challenge with host-guest binding to GDCCs](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/GDCC). **For deadlines please refer to the relevant GitHub sites.** Stay tuned for further announcements relating to the SAMPL8 phase of challenges, including a physical properties challenge with data provided by GSK; detailsed to be posted very soon. See our [roadmap](https://samplchallenges.github.io/roadmap/plans/) for what we can announce so far.
 
-**Our SAMPL7 physical properties issue is now open for submission** at JCAMD, with **deadline March 1**. Be sure to include "SAMPL7" in your title and select the SAMPL7 special issue from the dropdown menu on submission. As usual, articles will mostly appear in order of submission, and articles submitted early are preferred for cover artwork.
+**Our SAMPL7 physical properties issue is now open for submission** at JCAMD, with **deadline March 1**. Be sure to include "SAMPL7" in your title and select the SAMPL7 special issue from the dropdown menu on submission. As usual, articles will mostly appear in order of submission, and articles submitted early are preferred for cover artwork. Be sure to be aware that challenge data analysis (statistics, plots, etc.) is available on the SAMPL7 GitHub repository.
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). If interested in a particular challenge, be sure to select the relevant tags (e.g. "SAMPL7", "SAMPL8") on signup, and likewise for particular topic areas (pKa, logP etc.)
 
