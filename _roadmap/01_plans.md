@@ -26,25 +26,24 @@ For physical property prediction, we will likely revisit partitioning and distri
 
 For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is minimal. Thus it is likely we will revisit nonpolar to water distribution in SAMPL7, and polar-to-water distribution in subsequent challenges. We also plan to progress in terms of pKa, initially providing pKa values (if we can get these measured) and later transitioning to requiring participants to predict pKa values.
 
-## SAMPL7 plans (concluding in 2020)
+## SAMPL7 plans (concluded in 2020)
 
-[SAMPL7](https://github.com/samplchallenges/sampl7) is relatively complete, having included:
+[SAMPL7](https://github.com/samplchallenges/sampl7) is complete, having included:
 - Host-guest binding challenges on Isaacs' TrimerTrip, Gibb's GDCC's, and cyclodextrin derivatives from the Gilson lab
 - PHIPA fragment binding prediction, though analysis is still wrapping up.
-
-However, the following aspects are still ongoing:
 - Physical property prediction for a congeneric series; participants may predict (octanol-water) logP, pKa, or both. PAMPA permeability values are also optional. This is a partnership with the Ballatore lab at UCSD.
 
 Our GSK physical property challenge has been shifted to SAMPL8; while data collection is complete, we are still awaiting final approval for data release.
 
-## SAMPL8 plans (beginning summer 2020)
+## SAMPL8 plans (beginning 2021)
 
 - NanoLuc binding challenge (date TBD pending delays at NCATS)
 - ~~HSA binding challenge, Winter 2020~~ (scrapped due to experimental limitations)
-- Physical properties challenge, described below, likely early 2021
+- Physical properties challenge, described below, beginning shortly early 2021
 - Host-guest challenges, Summer 2020 onwards:
     - We have just launched a [SAMPL8 host-guest challenge on CB8](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8) as of June 2020.
-    - Data collection on modified cyclodextrins and Gibb deep cavity cavitands has been delayed by COVID-19 but will likely commence in late summer/early fall 2020, potentially leading to a challenge in late 2020 or early 2021.
+    - A GDCC challenge is currently ongoing
+    - Data collection on modified cyclodextrins is ongoing and will hopefully lead to a challenge in 2021.
 
 ### The NanoLuc challenges
 
@@ -62,13 +61,13 @@ The SAMPL8 physical property challenge will focus on log D. Data is currently co
 The measurements have been conducted in partnership with GlaxoSmithKline. The logD challenge will focus on a log D prediction set, with pKa’s possibly made available. The prediction set will contain a relatively small number of fragment-like molecules and examine distribution into diverse solvents.
 
 
-## SAMPL9 plans (2021?)
+## SAMPL9 plans (2022?)
 
 - Physical property challenge (likely on pKa with Paul Czodrowski; late 2020); whether we revisit logD again will depend on the outcomes of SAMPL7 and 8.
 - Host-guest binding challenges, summer 2021
 - Protein-ligand binding challenge TBD
 
-## SAMPL10 plans (2021-2022?)
+## SAMPL10 plans (2023-2024?)
 
 - Physical property challenge
 - Host-guest binding challenge
@@ -85,7 +84,7 @@ Properties of particular interest for future SAMPL challenges include:
 - LogP and logD data
 - pKa
 - Passive membrane permeability
-- Tautomer ratio prediction (estimated 2020 or 2021)
+- Tautomer ratio prediction (estimated 2021)
 
 
 We are exploring internships to generate such data, but if you have suitable resources and would like to contribute we would potentially love your help.

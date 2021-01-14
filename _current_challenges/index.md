@@ -11,7 +11,7 @@ excerpt: "Current and upcoming SAMPL challenges and meetings"
 
 ## Current challenges
 
-Additional SAMPL7 challenges are awaiting data finalization. We have also just launched the first [SAMPL8 challenge on host-guest binding](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8), focusing on CB8 binding to several drugs of abuse.
+SAMPL7 has now concluded, but the physical properties special issue is open for submission. We recently launched the first [SAMPL8 challenge on host-guest binding](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8), focusing on CB8 binding to several drugs of abuse.
 
 ## Challenges recently closed:
 
@@ -20,7 +20,7 @@ Additional SAMPL7 challenges are awaiting data finalization. We have also just l
 - Host-guest binding on octa acid derivatives (Gibb lab); deadline was Nov. 1, 2019.
 - Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline was Nov. 1, 2019
 - Host-guest binding on a glycouril clip-like host (Isaacs lab); deadline was Oct. 1, 2019
-- Physical property prediction (logP, pKa, permeability) for a congeneric series; deadline Sept. 15, 2020
+- Physical property prediction (logP, pKa, permeability) for a congeneric series; deadline Sept. 15, 2020. **Analysis results are now available.**
 
 Our [SAMPL7 host-guest virtual workshop](http://dx.doi.org/10.5281/zenodo.3674155) is available at this DOI: [10.5281/zenodo.3674155](http://dx.doi.org/10.5281/zenodo.3674155)
 
