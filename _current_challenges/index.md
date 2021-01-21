@@ -27,15 +27,33 @@ Our [SAMPL7 host-guest virtual workshop](http://dx.doi.org/10.5281/zenodo.367415
 Details of these are available on the [SAMPL7 GitHub repository](https://github.com/samplchallenges/SAMPL7).
 
 ### SAMPL8 challenges
+
+#### Host-guest challenges:
 - Host-guest binding for drugs of abuse binding to CB8; deadline was Sept., 2020.
 - Host-guest binding for a series of compounds binding to Gibb deep cavity cavitand (GDCC) hosts; deadline Feb. 4, 2021.
+- A GSK pKa/logD challenge (below)
 
 Details of these are available on the [SAMPL8 GitHub repository](https://github.com/samplchallenges/SAMPL8).
 
+#### The SAMPL8 physical properties challenge:
+We recently finalized work with GSK on data collection for a physical properties challenge. The data is currently clearing legal review at GSK and a challenge is forthcoming in the immediate future. We have collected:
+- pKa data for 24 compounds
+- pH-dependent solubility for these compounds
+- logD for 11 of these compounds for distribution between different phases: water-octanol, water-cyclohexane, water-ethyl acetate, water-heptane, water-MEK, water-TBME, and cyclohexane-DMF. Not all combinations of distribution coefficient are available because of compound solubility in the different phases. The total number of data points/combinations of (compound)x(phase identities) is between 40 and 50
+
+It is likely we would run first a pKa prediction challenge on the 24 compounds, and then a logD challenge.
+
+Currently, we welcome input on whether this data should be incorporated into a single challenge, or staged out to form the basis of two challenges. For example, we might hold back some of the distribution coefficient data for selected solvents to allow for a second challenge.
+
+
+
+
+### Other future challenges
+
+
 ## Upcoming challenges
 
-Several additional challenges are planned as part of the SAMPL8 series.
-We recently finalized work with GSK on data collection for a partitioning challenge, and with NCATS on data collection for potential protein-ligand binding challenges (including on NanoLuc binding). The GSK challenge will be part of SAMPL8, with additional details forthcoming at our Nov. 2020 workshop. Details of teh NanoLuc challenge are still being worked out with NCATS.
+Details of the NanoLuc challenge are still being worked out with NCATS.
 See our [roadmap](https://samplchallenges.github.io/roadmap/) pages for more details.
 
 

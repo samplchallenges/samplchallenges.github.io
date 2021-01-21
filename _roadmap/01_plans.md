@@ -33,7 +33,6 @@ For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is
 - PHIPA fragment binding prediction, though analysis is still wrapping up.
 - Physical property prediction for a congeneric series; participants may predict (octanol-water) logP, pKa, or both. PAMPA permeability values are also optional. This is a partnership with the Ballatore lab at UCSD.
 
-Our GSK physical property challenge has been shifted to SAMPL8; while data collection is complete, we are still awaiting final approval for data release.
 
 ## SAMPL8 plans (beginning 2021)
 
@@ -41,8 +40,8 @@ Our GSK physical property challenge has been shifted to SAMPL8; while data colle
 - ~~HSA binding challenge, Winter 2020~~ (scrapped due to experimental limitations)
 - Physical properties challenge, described below, beginning shortly early 2021
 - Host-guest challenges, Summer 2020 onwards:
-    - We have just launched a [SAMPL8 host-guest challenge on CB8](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/CB8) as of June 2020.
-    - A GDCC challenge is currently ongoing
+    - We concluded a SAMPL8 host-guest challenge on CB8
+    - A GDCC challenge is currently ongoing, ending February, 2021
     - Data collection on modified cyclodextrins is ongoing and will hopefully lead to a challenge in 2021.
 
 ### The NanoLuc challenges
@@ -56,9 +55,7 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 
 ### The SAMPL8 physical property challenge
 
-The SAMPL8 physical property challenge will focus on log D. Data is currently coming in (as of summer 2020) but in view of the current SAMPL7 physical property challenge we will likely launch this in early 2021.
-
-The measurements have been conducted in partnership with GlaxoSmithKline. The logD challenge will focus on a log D prediction set, with pKa’s possibly made available. The prediction set will contain a relatively small number of fragment-like molecules and examine distribution into diverse solvents.
+The SAMPL8 physical property challenge will focus on pKa and logD. Data is currently undergoing legal review at GSK and should be available shortly (as of Jan. 2021); see our [current challenges page for more details](https://samplchallenges.github.io/current/).
 
 
 ## SAMPL9 plans (2022?)
