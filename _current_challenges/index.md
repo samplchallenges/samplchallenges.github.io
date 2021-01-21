@@ -46,11 +46,6 @@ It is likely we would run first a pKa prediction challenge on the 24 compounds, 
 Currently, we welcome input on whether this data should be incorporated into a single challenge, or staged out to form the basis of two challenges. For example, we might hold back some of the distribution coefficient data for selected solvents to allow for a second challenge.
 
 
-
-
-### Other future challenges
-
-
 ## Upcoming challenges
 
 Details of the NanoLuc challenge are still being worked out with NCATS.
