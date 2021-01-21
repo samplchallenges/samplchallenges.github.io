@@ -7,21 +7,18 @@ excerpt: Details of upcoming SAMPL in-person and virtual workshops, including ag
 permalink: /current/workshops/
 ---
 
-## The 2020 SAMPL Virtual workshop
 
-We're running a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it has been switched to a virtual format and timing is being set to allow for US participation. This will be a satellite meeting of the German Conference on Cheminformatics (GCC). Participants are encouraged to join both workshops.  [Full details are available on the GCC/SAMPL2020 site](https://www.gdch.de/gcc2020).
+# Potential workshops
 
-This is a satellite workshop of the related GCC workshop, and is being set at a time to work well for both European and US participants. The SAMPL satellite workshop will encompass invited lectures and contributions from participants at the recent SAMPL blinded challenge on predicting protein-ligand and guest-host properties as well as potentially the current small molecule properties challenge. This will give participants the opportunity to present and learn about state-of-the-art computational methodology benchmarked against high-quality experimental data. SAMPL lectures will take place from 1 p.m. to 9 p.m. (CET) to ease participation of North and South American residents.
-
-## Other potential workshops
-
-- SAMPL 2021, dates TBD, Irvine, CA
+- SAMPL 2021, dates TBD (decision pending), Irvine, CA
 - EuroSAMPL in Mainz, Germany in 2021: Co-run with GCC 2021, the pair of workshops will take place back-to-back Oct. 31-Nov. 4, 2021, COVID status permitting.
 - SAMPL 2022, dates TBD, Irvine, CA
 
 # Previous workshops
 
 We had a 2019 [face-to-face workshop](https://drugdesigndata.org/about/d3r-2019-workshop) Aug. 22-23, 2019 in San Diego, joint with D3R. Due to technical difficulties, talk recordings are in general not available, unfortunately.
+
+We ran a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it was switched to a virtual format and had participation from the US, Europe, and elsewhere. This was a satellite meeting of the German Conference on Cheminformatics (GCC). Participants were encouraged to join both workshops.  [Full details are available on the GCC/SAMPL2020 site](https://www.gdch.de/gcc2020).
 
 ## The SAMPL7 host-guest virtual workshop
 
@@ -34,8 +31,7 @@ We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, 
 
 ### Overview/Purpose
 
-The purpose of this workshop was to go over a preliminary evaluation of results, begin considering analysis and lessons learned, and nucleate opportunities for follow up and additional discussion. Part of the goal is to facilitate discussion so that participants can work *together* to maximize lessons learned in the lead up to the August in-person D3R/SAMPL workshop and the JCAMD special issue.
-We hope this early workshop will result in additional follow-up afterwards.
+The purpose of this workshop was to go over a preliminary evaluation of results, begin considering analysis and lessons learned, and nucleate opportunities for follow up and additional discussion. 
 
 ### Agenda
 
