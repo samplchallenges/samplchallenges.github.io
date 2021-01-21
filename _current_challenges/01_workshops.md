@@ -18,7 +18,7 @@ permalink: /current/workshops/
 
 We had a 2019 [face-to-face workshop](https://drugdesigndata.org/about/d3r-2019-workshop) Aug. 22-23, 2019 in San Diego, joint with D3R. Due to technical difficulties, talk recordings are in general not available, unfortunately.
 
-We ran a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it was switched to a virtual format and had participation from the US, Europe, and elsewhere. This was a satellite meeting of the German Conference on Cheminformatics (GCC). Participants were encouraged to join both workshops.  [Full details are available on the GCC/SAMPL2020 site](https://www.gdch.de/gcc2020).
+We ran a SAMPL virtual workshop Nov. 4-5, 2020, in coordination with GCC. Originally this had been planned to be a EuroSAMPL workshop in person in Germany, but with COVID-19 it was switched to a virtual format and had participation from the US, Europe, and elsewhere. This was a satellite meeting of the German Conference on Cheminformatics (GCC). Participants were encouraged to join both workshops.  [Full details are available on the GCC/SAMPL2020 site](https://www.gdch.de/gcc2020). [Slides (and in some cases video) from some talks are available online](https://zenodo.org/communities/sampl/?page=1&size=20); speakers also have recordings of their own talks, so if you are interested in a talk which is not available online, feel free to ask the speaker about it.
 
 ## The SAMPL7 host-guest virtual workshop
 
@@ -31,7 +31,7 @@ We had a virtual pre-workshop on the SAMPL6 LogP challenge on Thursday, May 16, 
 
 ### Overview/Purpose
 
-The purpose of this workshop was to go over a preliminary evaluation of results, begin considering analysis and lessons learned, and nucleate opportunities for follow up and additional discussion. 
+The purpose of this workshop was to go over a preliminary evaluation of results, begin considering analysis and lessons learned, and nucleate opportunities for follow up and additional discussion.
 
 ### Agenda
 
