@@ -12,7 +12,7 @@ For past SAMPL special issues, [please refer to our history](https://samplchalle
 ## SAMPL7 Physical-Properties Challenge
 
 In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL7 physical properties challenge.
-The submission deadline for this is March 1, 2021, and the issue is already open for submission; standard analysis results are available on the SAMPL7 GitHub repo.
+The submission deadline for this is March 31, 2021, and the issue is already open for submission; standard analysis results are available on the SAMPL7 GitHub repo.
 As usual, papers are expected to appear online in advance of their publication in the special issue as soon as they are ready unless otherwise requested.
 Articles will typically appear in the final issue in order of submission, and the first few articles get priority for selection for cover artwork.
 
