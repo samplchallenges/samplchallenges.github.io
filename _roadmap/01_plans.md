@@ -55,7 +55,7 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 
 ### The SAMPL8 physical property challenge
 
-The SAMPL8 physical property challenge will focus on pKa and logD. Data is currently undergoing legal review at GSK and should be available shortly (as of Jan. 2021); see our [current challenges page for more details](https://samplchallenges.github.io/current/).
+The SAMPL8 physical property challenge focuses on pKa and logD. Data just cleared legal review at GSK and the challenge is now live; see our [current challenges page for more details](https://samplchallenges.github.io/current/).
 
 
 ## SAMPL9 plans (2022?)

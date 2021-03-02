@@ -36,14 +36,13 @@ Details of these are available on the [SAMPL7 GitHub repository](https://github.
 Details of these are available on the [SAMPL8 GitHub repository](https://github.com/samplchallenges/SAMPL8).
 
 #### The SAMPL8 physical properties challenge:
-We recently finalized work with GSK on data collection for a physical properties challenge. The data is currently clearing legal review at GSK and a challenge is forthcoming in the immediate future. We have collected:
+We recently finalized work with GSK on data collection for a physical properties challenge. The data recently cleared legal review at GSK and the challenge is now being launched. We have collected:
 - pKa data for 24 compounds
 - pH-dependent solubility for these compounds
-- logD for 11 of these compounds for distribution between different phases: water-octanol, water-cyclohexane, water-ethyl acetate, water-heptane, water-MEK, water-TBME, and cyclohexane-DMF. Not all combinations of distribution coefficient are available because of compound solubility in the different phases. The total number of data points/combinations of (compound)x(phase identities) is between 40 and 50
+- logD for 11 of these compounds for distribution between different phases: water-octanol, water-cyclohexane, water-ethyl acetate, water-heptane, water-MEK, water-TBME, and cyclohexane-DMF. Not all combinations of distribution coefficient are available because of compound solubility in the different phases. The total number of data points/combinations of (compound)x(phase identities) is between 40 and 50. [Details on dataset collection are available in this talk from the GCC/EuroSAMPL workshop](https://dx.doi.org/10.5281/zenodo.4245127])
 
 It is likely we would run first a pKa prediction challenge on the 24 compounds, and then a logD challenge.
 
-Currently, we welcome input on whether this data should be incorporated into a single challenge, or staged out to form the basis of two challenges. For example, we might hold back some of the distribution coefficient data for selected solvents to allow for a second challenge.
 
 
 ## Upcoming challenges
