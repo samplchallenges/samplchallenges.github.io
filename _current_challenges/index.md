@@ -41,7 +41,7 @@ We recently finalized work with GSK on data collection for a physical properties
 - pH-dependent solubility for these compounds
 - logD for 11 of these compounds for distribution between different phases: water-octanol, water-cyclohexane, water-ethyl acetate, water-heptane, water-MEK, water-TBME, and cyclohexane-DMF. Not all combinations of distribution coefficient are available because of compound solubility in the different phases. The total number of data points/combinations of (compound)x(phase identities) is between 40 and 50. [Details on dataset collection are available in this talk from the GCC/EuroSAMPL workshop](https://dx.doi.org/10.5281/zenodo.4245127])
 
-It is likely we would run first a pKa prediction challenge on the 24 compounds, and then a logD challenge.
+We will first run a pKa prediction challenge on the 24 compounds, and then a logD challenge.
 
 
 
