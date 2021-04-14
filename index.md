@@ -32,13 +32,11 @@ feature_row:
 
 {% include feature_row %}
 
-Currently, we are running [a SAMPL8 challenge with host-guest binding to GDCCs](https://github.com/samplchallenges/SAMPL8/tree/master/host_guest/GDCC). We also just launched a [SAMPL8 physical properties challenge](https://github.com/samplchallenges/SAMPL8/tree/master/physical_properties) on logD and pKa with data from GSK ([dataset collection details here](https://dx.doi.org/10.5281/zenodo.4245127])). **For deadlines please refer to the relevant GitHub sites.** Stay tuned for further announcements relating to the SAMPL8 phase of challenges. See our [roadmap](https://samplchallenges.github.io/roadmap/plans/) for what we can announce so far.
-
-**Our SAMPL7 physical properties issue is now open for submission** at JCAMD, with **deadline March 31**. Be sure to include "SAMPL7" in your title and select the SAMPL7 special issue from the dropdown menu on submission. As usual, articles will mostly appear in order of submission, and articles submitted early are preferred for cover artwork. Be sure to be aware that challenge data analysis (statistics, plots, etc.) is available on the SAMPL7 GitHub repository.
+Currently, we are running a [SAMPL8 physical properties challenge](https://github.com/samplchallenges/SAMPL8/tree/master/physical_properties) on logD and pKa with data from GSK ([dataset collection details here](https://dx.doi.org/10.5281/zenodo.4245127])), with deadlines in Summer 2021. **For exact deadlines please refer to the relevant GitHub sites.** Stay tuned for further announcements relating to the SAMPL8 phase of challenges. See our [roadmap](https://samplchallenges.github.io/roadmap/plans/) for what we can announce so far.
 
 To receive SAMPL e-mail announcements, please sign up for the [SAMPL e-mail list](http://eepurl.com/dPj11j). If interested in a particular challenge, be sure to select the relevant tags (e.g. "SAMPL7", "SAMPL8") on signup, and likewise for particular topic areas (pKa, logP etc.)
 
-[Our SAMPL7 host-guest challenge virtual workshop is up online](https://zenodo.org/record/3674155). And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content, such as talks from the GCC/EuroSAMPL workshop in Fall 2020.
+[Our SAMPL7 host-guest challenge virtual workshop is up online](https://zenodo.org/record/3674155). And check our the [SAMPL Zenodo community](https://zenodo.org/communities/sampl?page=1&size=20) for additional SAMPL-related content, such as talks from the GCC/EuroSAMPL workshop in Fall 2020. The SAMPL7 physical properties special issue is now also progressing through the review process.
 
 **Data donation**: If you have, or can generate, high quality datasets which might be suitable for a future SAMPL challenge, please contact us, or see our Roadmap page for additional information on types of data which may be of particular interest.
 
