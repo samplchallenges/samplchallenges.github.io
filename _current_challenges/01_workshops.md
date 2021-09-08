@@ -11,7 +11,7 @@ permalink: /current/workshops/
 # Potential workshops
 
 - SAMPL 2021, dates TBD (decision pending), Irvine, CA
-- EuroSAMPL in Mainz, Germany in 2021: Co-run with GCC 2021, the pair of workshops will take place back-to-back Oct. 31-Nov. 4, 2021, COVID status permitting.
+- GCC 2022 and the EuroSAMPL satellite workshop will take place May 8-12, 2022 in Garmisch-Partenkirchen in the German Alps. Updates will be posted [here](www.gdch.de/netzwerk-strukturen/fachstrukturen/computer-in-der-chemie-cic.html). The joint virtual GCC/SAMPL conference in November 2020, 2021 appears to be a similarly difficult year for in-person meetings. We have decided re-schedule the German Conference on Cheminformatics and the EuroSAMPL workshop. Not only will we shift the meeting to a more pleasant time of the year, we will also move to a different location. 
 - SAMPL 2022, dates TBD, Irvine, CA
 
 # Previous workshops
