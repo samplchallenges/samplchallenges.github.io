@@ -15,17 +15,6 @@ SAMPL7 has now concluded, but the physical properties special issue is open for 
 
 ## Challenges recently closed:
 
-### SAMPL7 challenges
-- Protein-ligand binding to the Pleckstrin homology domain interacting protein (PHIP) second bromodomain (PHIP2), in three phases.
-- Host-guest binding on octa acid derivatives (Gibb lab); deadline was Nov. 1, 2019.
-- Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline was Nov. 1, 2019
-- Host-guest binding on a glycouril clip-like host (Isaacs lab); deadline was Oct. 1, 2019
-- Physical property prediction (logP, pKa, permeability) for a congeneric series; deadline Sept. 15, 2020. **Analysis results are now available.**
-
-Our [SAMPL7 host-guest virtual workshop](http://dx.doi.org/10.5281/zenodo.3674155) is available at this DOI: [10.5281/zenodo.3674155](http://dx.doi.org/10.5281/zenodo.3674155)
-
-Details of these are available on the [SAMPL7 GitHub repository](https://github.com/samplchallenges/SAMPL7).
-
 ### SAMPL8 challenges
 
 #### Host-guest challenges:
@@ -43,6 +32,16 @@ We recently finalized work with GSK on data collection for a physical properties
 
 We will first run a pKa prediction challenge on the 24 compounds, and then a logD challenge. Deadlines are in summer 2021; refer to the SAMPL8 GitHub repository for details.
 
+### SAMPL7 challenges
+- Protein-ligand binding to the Pleckstrin homology domain interacting protein (PHIP) second bromodomain (PHIP2), in three phases.
+- Host-guest binding on octa acid derivatives (Gibb lab); deadline was Nov. 1, 2019.
+- Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline was Nov. 1, 2019
+- Host-guest binding on a glycouril clip-like host (Isaacs lab); deadline was Oct. 1, 2019
+- Physical property prediction (logP, pKa, permeability) for a congeneric series; deadline Sept. 15, 2020. **Analysis results are now available.**
+
+Our [SAMPL7 host-guest virtual workshop](http://dx.doi.org/10.5281/zenodo.3674155) is available at this DOI: [10.5281/zenodo.3674155](http://dx.doi.org/10.5281/zenodo.3674155)
+
+Details of these are available on the [SAMPL7 GitHub repository](https://github.com/samplchallenges/SAMPL7).
 
 
 ## Upcoming challenges
