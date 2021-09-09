@@ -11,7 +11,7 @@ excerpt: "Current and upcoming SAMPL challenges and meetings"
 
 ## Current challenges
 
-SAMPL7 has now concluded, but the physical properties special issue is open for submission. We recently launched some of the [SAMPL8 challenges on host-guest binding](https://github.com/samplchallenges/SAMPL8), with our current challenge focusing on several guests binding to Gibb deep-cavity cavitands (GDCCs) (predictions due Feb. 4); a CB8 challenge has already concluded.
+SAMPL7 has now concluded, but the physical properties special issue is open for submission. We recently launched some of the [SAMPL8 challenges on host-guest binding](https://github.com/samplchallenges/SAMPL8), with our current challenge focusing on several guests binding to Gibb deep-cavity cavitands (GDCCs) (predictions due Feb. 4); a CB8 challenge has already concluded. 
 
 ## Challenges recently closed:
 
