@@ -26,6 +26,8 @@ For physical property prediction, we will likely revisit partitioning and distri
 
 For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is minimal. Thus it is likely we will revisit nonpolar to water distribution in SAMPL7, and polar-to-water distribution in subsequent challenges. We also plan to progress in terms of pKa, initially providing pKa values (if we can get these measured) and later transitioning to requiring participants to predict pKa values.
 
+Moving forward, we will also work on running an automated arm of SAMPL challenges to run methods head-to-head without human intervention. To accomplish this, we will use containerized [Docker](https://www.docker.com/resources/what-container) methods.
+
 ## SAMPL7 plans (concluded in 2020)
 
 [SAMPL7](https://github.com/samplchallenges/sampl7) is complete, having included:
