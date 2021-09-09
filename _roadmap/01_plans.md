@@ -45,6 +45,7 @@ Moving forward, we will also work on running an automated arm of SAMPL challenge
     - We concluded a SAMPL8 host-guest challenge on CB8
     - A GDCC challenge is currently ongoing, ending February, 2021
     - Data collection on modified cyclodextrins is ongoing and will hopefully lead to a challenge in 2021.
+- Containerized challenges
 
 ### The NanoLuc challenges
 
