@@ -63,6 +63,10 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 The SAMPL8 physical property challenge focuses on pKa and logD. Data just cleared legal review at GSK and the challenge is now live; see our [current challenges page for more details](https://samplchallenges.github.io/current/).
 
 
+### The SAMPL8 containerized challenges
+
+We are creating an automated arm of SAMPL challenges to run methods head-to-head without human intervention to work around what we learned in [SAMPL4](https://link.springer.com/article/10.1007%2Fs10822-013-9702-2) - that human knowledge can be a key factor influencing the success of a computational drug discovery method. To accomplish this, we will use containerized [Docker](https://www.docker.com/resources/what-container) methods.
+
 ## SAMPL9 plans (2022?)
 
 - Physical property challenge (likely on pKa with Paul Czodrowski; late 2020); whether we revisit logD again will depend on the outcomes of SAMPL7 and 8.
