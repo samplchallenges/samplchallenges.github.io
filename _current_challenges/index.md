@@ -13,7 +13,7 @@ excerpt: "Current and upcoming SAMPL challenges and meetings"
 We recently launched some of the [SAMPL8 challenges on host-guest binding](https://github.com/samplchallenges/SAMPL8), with our current challenge focusing on several guests binding to Gibb deep-cavity cavitands (GDCCs) (predictions due Feb. 4); a CB8 challenge has already concluded. As a part of SAMPL8, we are also planning test run of a containerized docking method challenge using [Docker containers](https://www.docker.com/resources/what-container); for more information, please see our [containerized docking tutorial](https://github.com/samplchallenges/SAMPL-containers/tree/main/tutorials). 
 
 
-The SAMPL8 Physical Properties special issue still open for submission.
+The SAMPL8 Physical Properties special issue still open for submission. Deadline TBA.
 
 ## Challenges recently closed:
 
