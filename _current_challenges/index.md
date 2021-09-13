@@ -10,8 +10,10 @@ excerpt: "Current and upcoming SAMPL challenges and meetings"
 ---
 
 ## Current challenges
+We recently launched some of the [SAMPL8 challenges on host-guest binding](https://github.com/samplchallenges/SAMPL8), with our current challenge focusing on several guests binding to Gibb deep-cavity cavitands (GDCCs) (predictions due Feb. 4); a CB8 challenge has already concluded. As a part of SAMPL8, we are also planning test run of a containerized docking method challenge using [Docker containers](https://www.docker.com/resources/what-container); for more information, please see our [containerized docking tutorial](https://github.com/samplchallenges/SAMPL-containers/tree/main/tutorials). 
 
-SAMPL7 has now concluded, but the physical properties special issue is open for submission. We recently launched some of the [SAMPL8 challenges on host-guest binding](https://github.com/samplchallenges/SAMPL8), with our current challenge focusing on several guests binding to Gibb deep-cavity cavitands (GDCCs) (predictions due Feb. 4); a CB8 challenge has already concluded. As a part of SAMPL8, we are also planning test run of a containerized docking method challenge using [Docker containers](https://www.docker.com/resources/what-container); for more information, please see our [containerized docking tutorial](https://github.com/samplchallenges/SAMPL-containers/tree/main/tutorials).
+
+The SAMPL8 Physical Properties special issue still open for submission.
 
 ## Challenges recently closed:
 
@@ -33,6 +35,7 @@ We recently finalized work with GSK on data collection for a physical properties
 We will first run a pKa prediction challenge on the 24 compounds, and then a logD challenge. Deadlines are in summer 2021; refer to the SAMPL8 GitHub repository for details.
 
 ### SAMPL7 challenges
+SAMPL7 has now concluded, and the physical properties special issue is closed for submission. 
 - Protein-ligand binding to the Pleckstrin homology domain interacting protein (PHIP) second bromodomain (PHIP2), in three phases.
 - Host-guest binding on octa acid derivatives (Gibb lab); deadline was Nov. 1, 2019.
 - Host-guest binding on modified cyclodextrin derivatives (Gilson lab); deadline was Nov. 1, 2019
