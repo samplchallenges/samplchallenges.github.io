@@ -9,7 +9,7 @@ permalink: /roadmap/specialissues/
 
 For past SAMPL special issues, [please refer to our history](https://samplchallenges.github.io/history/references/).
 
-## SAMPL7 Physical-Properties Challenge
+## SAMPL8 Physical-Properties Challenge
 
 In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL8 physical properties challenge.
 As usual, papers are expected to appear online in advance of their publication in the special issue as soon as they are ready unless otherwise requested.
