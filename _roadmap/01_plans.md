@@ -26,6 +26,8 @@ For physical property prediction, we will likely revisit partitioning and distri
 
 For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is minimal. Thus it is likely we will revisit nonpolar to water distribution in SAMPL7, and polar-to-water distribution in subsequent challenges. We also plan to progress in terms of pKa, initially providing pKa values (if we can get these measured) and later transitioning to requiring participants to predict pKa values.
 
+Moving forward, we will also work on running an automated arm of SAMPL challenges to run methods head-to-head without human intervention. To accomplish this, we will use containerized [Docker](https://www.docker.com/resources/what-container) methods.
+
 ## SAMPL7 plans (concluded in 2020)
 
 [SAMPL7](https://github.com/samplchallenges/sampl7) is complete, having included:
@@ -43,6 +45,9 @@ For nonpolar solvents (e.g. dodecane, heptane, cyclohexane) the third problem is
     - We concluded a SAMPL8 host-guest challenge on CB8
     - A GDCC challenge is currently ongoing, ending February, 2021
     - Data collection on modified cyclodextrins is ongoing and will hopefully lead to a challenge in 2021.
+- Containerized challenges
+    - Docking Pose Prediction
+    - LogD
 
 ### The NanoLuc challenges
 
@@ -57,6 +62,10 @@ However, since NCATS has screened hundreds of thousands of compounds for binding
 
 The SAMPL8 physical property challenge focuses on pKa and logD. Data just cleared legal review at GSK and the challenge is now live; see our [current challenges page for more details](https://samplchallenges.github.io/current/).
 
+
+### The SAMPL8 containerized challenges
+
+We are creating an automated arm of SAMPL challenges to run methods head-to-head without human intervention to work around what we learned in [SAMPL4](https://link.springer.com/article/10.1007%2Fs10822-013-9702-2) - that human knowledge can be a key factor influencing the success of a computational drug discovery method. To accomplish this, we will use containerized [Docker](https://www.docker.com/resources/what-container) methods.
 
 ## SAMPL9 plans (2022?)
 
