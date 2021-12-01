@@ -36,18 +36,24 @@ Moving forward, we will also work on running an automated arm of SAMPL challenge
 - Physical property prediction for a congeneric series; participants may predict (octanol-water) logP, pKa, or both. PAMPA permeability values are also optional. This is a partnership with the Ballatore lab at UCSD.
 
 
-## SAMPL8 plans (beginning 2021)
+## SAMPL8 plans (2020-2021)
 
 - NanoLuc binding challenge (date TBD pending delays at NCATS)
 - ~~HSA binding challenge, Winter 2020~~ (scrapped due to experimental limitations)
-- Physical properties challenge, described below, beginning shortly early 2021
+- Physical properties challenge ran in 2021 and focused on pKa and logD. Analysis is now underway; see our [current challenges page for more details](https://samplchallenges.github.io/current/).
 - Host-guest challenges, Summer 2020 onwards:
     - We concluded a SAMPL8 host-guest challenge on CB8
-    - A GDCC challenge is currently ongoing, ending February, 2021
-    - Data collection on modified cyclodextrins is ongoing and will hopefully lead to a challenge in 2021.
+    - A GDCC challenge ended February, 2021
+    - A challenge on modified cyclodextrins concluded in 2021.
+
+## SAMPL9 plans (beginning late 2021)
+- A first host-guest challenge on WP6 from the Isaacs lab concluded in Fall 2021
+- A second host-guest challenge on modified beta cyclodextrins from the Gilson lab launched in November 2021
+- Data curation for a NanoLuc challenge (see below) and an HSP90 challenge are underway
 - Containerized challenges
     - Docking Pose Prediction
     - LogD
+- Physical property challenge (likely on pKa with Paul Czodrowski; late 2020); whether we revisit logD again will depend on the outcomes of SAMPL7 and 8.
 
 ### The NanoLuc challenges
 
@@ -58,20 +64,10 @@ The NanoLuc challenge will likely involve prediction of affinities of drug-like 
 However, since NCATS has screened hundreds of thousands of compounds for binding to NanoLuc, the binding affinity prediction component may be preceded by a virtual screening challenge that involves attempting to pick active compounds out of a library of verified nonbinders.
 
 
-### The SAMPL8 physical property challenge
-
-The SAMPL8 physical property challenge focuses on pKa and logD. Data just cleared legal review at GSK and the challenge is now live; see our [current challenges page for more details](https://samplchallenges.github.io/current/).
-
-
-### The SAMPL8 containerized challenges
+### The SAMPL9 containerized challenges
 
 We are creating an automated arm of SAMPL challenges to run methods head-to-head without human intervention to work around what we learned in [SAMPL4](https://link.springer.com/article/10.1007%2Fs10822-013-9702-2) - that human knowledge can be a key factor influencing the success of a computational drug discovery method. To accomplish this, we will use containerized [Docker](https://www.docker.com/resources/what-container) methods.
 
-## SAMPL9 plans (2022?)
-
-- Physical property challenge (likely on pKa with Paul Czodrowski; late 2020); whether we revisit logD again will depend on the outcomes of SAMPL7 and 8.
-- Host-guest binding challenges, summer 2021
-- Protein-ligand binding challenge TBD
 
 ## SAMPL10 plans (2023-2024?)
 
