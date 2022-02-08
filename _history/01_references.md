@@ -28,4 +28,8 @@ The various SAMPL challenges are described in:
 
 ## Additional references
 
-A full list of some 100 SAMPL references we previously identified is also available in the [SAMPL proposal](http://escholarship.org/uc/item/7cf8c6cr); we plan to propagate a complete reference list to this website at some point. Typically all SAMPL papers cite "SAMPLN" in their titles, where N is a number, e.g. "SAMPL7", making these easy to discover via Google Scholar, Web of Science or similar search engines.
+A full list of some 100 SAMPL references we previously identified is also available in the [SAMPL proposal](http://escholarship.org/uc/item/7cf8c6cr). 
+
+We plan to propagate a complete reference list to this website, a working list is provided on the [List of all SAMPL references](/history/allreferences) page. 
+
+Typically all SAMPL papers cite "SAMPLN" in their titles, where N is a number, e.g. "SAMPL7", making these easy to discover via Google Scholar, Web of Science or similar search engines.

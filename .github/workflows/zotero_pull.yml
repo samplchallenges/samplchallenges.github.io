@@ -1,0 +1,92 @@
+# This is a basic workflow to help you get started with Actions
+
+name: GatherReferences
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */24 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+
+    environment: ZoteroPull
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc      
+          sudo apt-get install pandoc-citeproc
+          
+      - name: Install pipenv
+        run: |
+          python -m pip install --upgrade pipenv wheel
+          
+      - id: cache-pipenv
+        uses: actions/cache@v2.1.7
+        with:
+          path: ~/.local/share/virtualenvs
+          key: ${{ runner.os }}-pipenv-${{ hashFiles('**/Pipfile.lock') }}-${{ hashFiles('**/Pipfile') }}
+          
+      - name: Install dependencies
+        if: steps.cache-pipenv.outputs.cache-hit != 'true'
+        run: |
+          pipenv install --dev --deploy
+
+      # Run the python script to pull all references from Zotero with tag
+      - name: Zotero pull
+        env:
+          ZOTERO_LIBRARY_ID: ${{ secrets.ZOTERO_LIBRARY_ID }}
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+        run: |
+          pipenv run python generate_references.py \
+            -t "test" \
+            --lib-id "$ZOTERO_LIBRARY_ID" \
+            --api-key "$ZOTERO_API_KEY" \
+            --outfile "_history/02_allreferences.md" \
+            --headerfile "_history/references_header.md"
+            
+      # Commit the created reference file to the Master branch
+      #- name: Commit references file
+      #  uses: dmnemec/copy_file_to_another_repo_action@main
+      #  env:
+      #    API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      #  with:
+      #    source_file: '01_references.md'
+      #    destination_repo: 'megosato/samplchallenges.github.io'
+      #    destination_branch: 'master'
+      #    destination_folder: '_history'
+      #    user_email: 'osatom@uci.edu'
+      #    user_name: 'megosato'
+      #    commit_message: 'Update references file with zotero references'
+
+      - name: Commit references file
+        uses: EndBug/add-and-commit@v8 
+        with: 
+          add: '_history/02_allreferences.md'
+          author_name: 'Github Actions'
+          message: 'Update Zotero references for List of all SAMPL references'
