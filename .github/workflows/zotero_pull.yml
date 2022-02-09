@@ -68,7 +68,7 @@ jobs:
             --lib-id "$ZOTERO_LIBRARY_ID" \
             --api-key "$ZOTERO_API_KEY" \
             --outfile "_history/02_allreferences.md" \
-            --headerfile "_history/references_header.md"
+            --headerfile "_history/allreferences_header.md"
             
       # Commit the created reference file to the Master branch
       #- name: Commit references file
