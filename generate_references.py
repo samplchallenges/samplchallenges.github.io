@@ -7,17 +7,17 @@ import argparse
 import os
 
 def create_markdown_file_from_headerfile(tempfile: str, outfile: str, headerfile: str):
-	with open(outfile, 'w') as outf:
-		with open(headerfile, 'r') as headerf:
-			for line in headerf:
-				if line.startswith("[//]: #"):
-					outf.write(line[7:])
-				else:
-					outf.write(line)
-			outf.write("\n\n")
-		with open(tempfile, 'r') as tempf:
-			for line in tempf:
-				outf.write(line)
+    with open(outfile, 'w') as outf:
+        with open(headerfile, 'r') as headerf:
+            for line in headerf:
+                if line.startswith("[//]: #"):
+                    outf.write(line[7:])
+                else:
+                    outf.write(line)
+            outf.write("\n\n")
+        with open(tempfile, 'r') as tempf:
+            for line in tempf:
+                outf.write(line)
 
 def create_markdown_file_with_header(tempfile: str, outfile: str, header: str):
     with open(outfile, 'w') as outf:
@@ -113,5 +113,5 @@ if __name__ == "__main__":
     elif args["outfile"] and args["header"]:
         create_markdown_file_with_header(ofile, args["outfile"], args["header"])
 
-    if os.path.isfile(ofile):
+    if ofile and os.path.isfile(ofile):
         os.remove(ofile)
