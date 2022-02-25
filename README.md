@@ -37,7 +37,10 @@ The CI workflow pulls the "header text" the formatting, title, and text that wil
 
 Upon running the CI workflow, the script `generate_references.py` pulls all references with the correct tag, and organizes in reverse chronological order. It then overwites `_history/02_allreferences.md` by adding the header text from `_history/allreferences_header.md` then the formatted references. Finally, it commits the changes to the repository. 
 
-To test this locally you can run: `python generate_references.py --tag SAMPL-website --lib-id [group ID from Dr. Mobley] --api-key [api key for group from Dr. Mobley] --lib-type group --headerfile _history/02_allreferences.md --outfile _history/02_allreferences.md`
+To test this locally you can run: 
+```
+python generate_references.py --tag SAMPL-website --lib-id [group ID from Dr. Mobley] --api-key [api key for group from Dr. Mobley] --lib-type group --headerfile _history/02_allreferences.md --outfile _history/02_allreferences.md
+```
 
 ### Testing Locally
 
