@@ -83,7 +83,7 @@ jobs:
         id: changes
         uses: UnicornGlobal/has-changes-action@v1.0.11
 
-      - name: If changes: commit changes to 02_allreferences.md
+      - name: If changes commit changes to 02_allreferences.md
         if: steps.changes.outputs.changed == 1
         run: |
           git config --global user.email ${{ github.actor }}@users.noreply.github.com
@@ -91,7 +91,7 @@ jobs:
           git add _history/02_allreferences.md
           git commit -m "zotero_pull action: Update 02_allreferences.md List"
 
-      - name: If changes: Create PR with updated references file
+      - name: If changes Create PR with updated references file
         if: steps.changes.outputs.changed == 1
         uses: peter-evans/create-pull-request@v3
         with:
