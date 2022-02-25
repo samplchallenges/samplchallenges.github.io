@@ -1,11 +1,12 @@
-[//]: #---
-[//]: #layout: single
-[//]: #sidebar:
-[//]: #  nav: allreferences.md
-[//]: #title: List of all SAMPL references
-[//]: #excerpt: A full list of some 100 SAMPL references we previously identified
-[//]: #permalink: /history/allreferences/
-[//]: #---
+##AllReferencesHeader
+---
+layout: single
+sidebar:
+  nav: allreferences.md
+title: List of all SAMPL references
+excerpt: A full list of some 100 SAMPL references we previously identified
+permalink: /history/allreferences/
+---
 
 A working list of all SAMPL references is provided below. 
 

@@ -17,8 +17,8 @@ def create_markdown_file_from_headerfile(tempfile: str, outfile: str, headerfile
     with open(outfile, 'w') as outf:
         with open(headerfile, 'r') as headerf:
             for line in headerf:
-                if line.startswith("[//]: #"):
-                    outf.write(line[7:])
+                if line.startswith("##AllReferencesHeader"):
+                    continue
                 else:
                     outf.write(line)
             outf.write("\n\n")

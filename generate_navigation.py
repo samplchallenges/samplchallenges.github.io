@@ -61,7 +61,7 @@ def create_toc(md_file, category):
 
     header_string = '\n'.join(header)
 
-    front_matter = yaml.load(header_string)
+    front_matter = yaml.load(header_string, Loader=yaml.Loader)
 
     rewrite_frontmatter = False
 
@@ -145,7 +145,7 @@ def main(args):
     # print sidebar navigation for files
     for c in categories:
         for f in os.listdir(get_category_folder(c)):
-            if f.endswith('.md') and f != 'index.md':
+            if f.endswith('.md') and f not in ['index.md','allreferences_header.md']:
                 print()
                 create_toc(f, c)
 
