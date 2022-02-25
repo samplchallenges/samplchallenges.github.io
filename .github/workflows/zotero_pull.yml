@@ -78,3 +78,21 @@ jobs:
           add: '_history/02_allreferences.md'
           author_name: 'Github Actions'
           message: 'Update references in List of all SAMPL references from Mobley Lab Zotero'
+
+      - name: Check if there are changes to all references list
+        id: changes
+        uses: UnicornGlobal/has-changes-action@v1.0.11
+
+      - name: If changes: commit changes to 02_allreferences.md
+        if: steps.changes.outputs.changed == 1
+        run: |
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
+          git config --global user.name ${{ github.actor }}
+          git add _history/02_allreferences.md
+          git commit -m "zotero_pull action: Update 02_allreferences.md List"
+
+      - name: If changes: Create PR with updated references file
+        if: steps.changes.outputs.changed == 1
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: "Zotero Pull Workflow update all references list"
