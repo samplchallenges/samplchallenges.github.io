@@ -70,7 +70,7 @@ def get_url(item):
 if __name__ == "__main__":
     
     ap = argparse.ArgumentParser()
-    ap.add_argument("-t", "--tag", help="Zotero library tag", required=False)
+    ap.add_argument("-t", "--tag", help="Zotero library tag", required=True)
     ap.add_argument("--lib-id", help="Zotero ID (user or group) from https://www.zotero.org/settings/keys", required=True)
     ap.add_argument("--api-key", help="Zotero API key from https://www.zotero.org/settings/keys/new", required=True)
     ap.add_argument("--lib-type", help="Library type associated with the Zotero ID ('user' or 'group')", required=True)
