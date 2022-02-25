@@ -9,14 +9,13 @@ main:
 workshops.md:
   - title: Upcoming SAMPL workshops
     url: /current/workshops/index.html#
+  - title: Upcoming workshops
+    url: /current/workshops/index.html#upcoming-workshops
+  - title: Previous workshops
+    url: /current/workshops/index.html#previous-workshops
     children:
-    - title: The 2019 D3R/SAMPL Joint Workshop
-      url: /current/workshops/index.html#the-2019-d3rsampl-joint-workshop
-    - title: Other potential workshops
-      url: /current/workshops/index.html#other-potential-workshops
-  - title: Previous recent workshops
-    url: /current/workshops/index.html#previous-recent-workshops
-    children:
+    - title: The SAMPL7 host-guest virtual workshop
+      url: /current/workshops/index.html#the-sampl7-host-guest-virtual-workshop
     - title: The SAMPL6 LogP Virtual Workshop
       url: /current/workshops/index.html#the-sampl6-logp-virtual-workshop
       children:
@@ -44,8 +43,8 @@ specialissues.md:
   - title: SAMPL special issues and sections
     url: /roadmap/specialissues/index.html#
     children:
-    - title: SAMPL6 logP Challenge
-      url: /roadmap/specialissues/index.html#sampl6-logp-challenge
+    - title: SAMPL8 Physical-Properties Challenge
+      url: /roadmap/specialissues/index.html#sampl8-physical-properties-challenge
     - title: General plans for future special issues
       url: /roadmap/specialissues/index.html#general-plans-for-future-special-issues
       children:
@@ -53,6 +52,10 @@ specialissues.md:
         url: /roadmap/specialissues/index.html#submission-deadlines
     - title: Review criteria for special issues
       url: /roadmap/specialissues/index.html#review-criteria-for-special-issues
+    - title: Submitters/participants often review papers
+      url: /roadmap/specialissues/index.html#submittersparticipants-often-review-papers
+    - title: Acknowledging and citing SAMPL
+      url: /roadmap/specialissues/index.html#acknowledging-and-citing-sampl
 
 plans.md:
   - title: Plans for upcoming challenges
@@ -60,24 +63,27 @@ plans.md:
     children:
     - title: SAMPL overview, SAMPL7-10
       url: /roadmap/plans/index.html#sampl-overview-sampl7-10
-    - title: SAMPL7 plans (present through late 2019)
-      url: /roadmap/plans/index.html#sampl7-plans-present-through-late-2019
+    - title: SAMPL7 plans (concluded in 2020)
+      url: /roadmap/plans/index.html#sampl7-plans-concluded-in-2020
+    - title: SAMPL8 plans (2020-2021)
+      url: /roadmap/plans/index.html#sampl8-plans-2020-2021
+    - title: SAMPL9 plans (beginning late 2021)
+      url: /roadmap/plans/index.html#sampl9-plans-beginning-late-2021
       children:
-      - title: The SAMPL7 physical property challenge
-        url: /roadmap/plans/index.html#the-sampl7-physical-property-challenge
-    - title: SAMPL8 plans (late 2019 through Aug. 2020)
-      url: /roadmap/plans/index.html#sampl8-plans-late-2019-through-aug-2020
-      children:
-      - title: The SAMPL8 HSA challenge
-        url: /roadmap/plans/index.html#the-sampl8-hsa-challenge
       - title: The NanoLuc challenges
         url: /roadmap/plans/index.html#the-nanoluc-challenges
-    - title: SAMPL9 plans (Sept. 1, 2020 through Aug. 31, 2021)
-      url: /roadmap/plans/index.html#sampl9-plans-sept-1-2020-through-aug-31-2021
-    - title: SAMPL10 plans (Sept. 1, 2021 through Aug. 31, 2022)
-      url: /roadmap/plans/index.html#sampl10-plans-sept-1-2021-through-aug-31-2022
+      - title: The SAMPL9 containerized challenges
+        url: /roadmap/plans/index.html#the-sampl9-containerized-challenges
+    - title: SAMPL10 plans (2023-2024?)
+      url: /roadmap/plans/index.html#sampl10-plans-2023-2024
+    - title: Other datasets possibly en route
+      url: /roadmap/plans/index.html#other-datasets-possibly-en-route
   - title: Properties of interest
     url: /roadmap/plans/index.html#properties-of-interest
+
+allreferences.md:
+  - title: List of all SAMPL references
+    url: /history/allreferences/index.html#
 
 challenges.md:
   - title: Details on previous SAMPL challenges
