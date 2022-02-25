@@ -71,13 +71,6 @@ jobs:
             --api-key "$ZOTERO_API_KEY" \
             --outfile "_history/02_allreferences.md" \
             --headerfile "_history/allreferences_header.md"
-            
-      - name: Commit references file
-        uses: EndBug/add-and-commit@v8 
-        with: 
-          add: '_history/02_allreferences.md'
-          author_name: 'Github Actions'
-          message: 'Update references in List of all SAMPL references from Mobley Lab Zotero'
 
       - name: Check if there are changes to all references list
         id: changes
