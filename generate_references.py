@@ -9,7 +9,7 @@ import logging
 import shutil
 import tempfile
 
-LOG_LEVEL = logging.DEBUG
+LOG_LEVEL = logging.INFO
 FORMAT = '[%(asctime)s-%(levelname)s] %(message)s'
 logging.basicConfig(encoding='utf-8', level=LOG_LEVEL, format=FORMAT)
 
