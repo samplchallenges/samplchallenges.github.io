@@ -345,14 +345,12 @@ Octav Caldararu, Martin A. Olsson, Christoph Riplinger, Frank Neese, Ulf Ryde
 *Journal of Computer-Aided Molecular Design* (2016-09-06) <https://doi.org/f9m8zz>   
 DOI: [10.1007/s10822-016-9957-5](https://doi.org/10.1007/s10822-016-9957-5) · PMID: [27600554](https://www.ncbi.nlm.nih.gov/pubmed/27600554) · PMCID: [PMC5239813](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5239813)
 
-67. **Binding of carboxylate and trimethylammonium salts to octa-acid and TEMOA deep-cavity cavitands**   
-Matthew R. Sullivan, Punidha Sokkalingam, Thong Nguyen, James P. Donahue, Bruce C. Gibb  
-*Journal of Computer-Aided Molecular Design* (2016-07-18) <https://doi.org/f9m84c>   
+67. <https://doi.org/f9m84c>   
 DOI: [10.1007/s10822-016-9925-0](https://doi.org/10.1007/s10822-016-9925-0) · PMID: [27432339](https://www.ncbi.nlm.nih.gov/pubmed/27432339) · PMCID: [PMC5571645](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5571645)
 
-68. **Absolute binding free energies for octa-acids and guests in SAMPL5**   
+68. **Absolute binding free energies for octa-acids and guests in SAMPL5: Evaluating binding free energies for octa-acid and guest complexes in the SAMPL5 blind challenge**   
 Florentina Tofoleanu, Juyong Lee, Frank C. Pickard IV, Gerhard König, Jing Huang, Minkyung Baek, Chaok Seok, Bernard R. Brooks  
-*Journal of Computer-Aided Molecular Design* (2016-09-30) <https://doi.org/f9m9c2>   
+*Journal of Computer-Aided Molecular Design* (2017-01) <https://doi.org/f9m9c2>   
 DOI: [10.1007/s10822-016-9965-5](https://doi.org/10.1007/s10822-016-9965-5) · PMID: [27696242](https://www.ncbi.nlm.nih.gov/pubmed/27696242) · PMCID: [PMC6472255](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472255)
 
 69. **Blinded predictions of host-guest standard free energies of binding in the SAMPL5 challenge**   
