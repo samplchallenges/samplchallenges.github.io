@@ -76,12 +76,10 @@ jobs:
         id: changes
         uses: UnicornGlobal/has-changes-action@v1.0.11
 
-      - name: Get branch name
-        uses: nelonoel/branch-name@v1        
-
       - name: If changes commit changes to 02_allreferences.md
-        if: steps.changes.outputs.changed == 1 && $BRANCH_NAME == "master" 
+        if: steps.changes.outputs.changed == 1 #&& GITHUB_REF == "master" 
         run: |
+          export ${GITHUB_REF}
           git config --global user.email ${{ github.actor }}@users.noreply.github.com
           git config --global user.name ${{ github.actor }}
           git add _history/02_allreferences.md
