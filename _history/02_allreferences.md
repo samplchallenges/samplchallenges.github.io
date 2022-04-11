@@ -25,7 +25,7 @@ DOI: [10.1007/s10822-021-00439-w](https://doi.org/10.1007/s10822-021-00439-w) ·
 3. **Thermodynamics of pillararene·guest complexation: blinded dataset for the SAMPL9 challenge**   
 Chun-Lin Deng, Ming Cheng, Peter Y. Zavalij, Lyle Isaacs  
 *New Journal of Chemistry* (2022) <https://doi.org/gpjnwc>   
-DOI: [10.1039/d1nj05209h](https://doi.org/10.1039/d1nj05209h) · PMCID: [PMC8896905](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896905)
+DOI: [10.1039/d1nj05209h](https://doi.org/10.1039/d1nj05209h) · PMID: [35250257](https://www.ncbi.nlm.nih.gov/pubmed/35250257) · PMCID: [PMC8896905](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896905)
 
 4. **Free energy methods in drug discovery: current state and future directions**   
 Kira A. Armacost, David C. Thompson (editors)  
