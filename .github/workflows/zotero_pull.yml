@@ -80,7 +80,7 @@ jobs:
         uses: nelonoel/branch-name@v1        
 
       - name: If changes commit changes to 02_allreferences.md
-        if: steps.changes.outputs.changed == 1 && BRANCH_NAME == "master" 
+        if: steps.changes.outputs.changed == 1 && $BRANCH_NAME == "master" 
         run: |
           git config --global user.email ${{ github.actor }}@users.noreply.github.com
           git config --global user.name ${{ github.actor }}
