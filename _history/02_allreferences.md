@@ -25,7 +25,7 @@ DOI: [10.1007/s10822-021-00439-w](https://doi.org/10.1007/s10822-021-00439-w) ·
 3. **Thermodynamics of pillararene·guest complexation: blinded dataset for the SAMPL9 challenge**   
 Chun-Lin Deng, Ming Cheng, Peter Y. Zavalij, Lyle Isaacs  
 *New Journal of Chemistry* (2022) <https://doi.org/gpjnwc>   
-DOI: [10.1039/d1nj05209h](https://doi.org/10.1039/d1nj05209h) · PMCID: [PMC8896905](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896905)
+DOI: [10.1039/d1nj05209h](https://doi.org/10.1039/d1nj05209h) · PMID: [35250257](https://www.ncbi.nlm.nih.gov/pubmed/35250257) · PMCID: [PMC8896905](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896905)
 
 4. **Free energy methods in drug discovery: current state and future directions**   
 Kira A. Armacost, David C. Thompson (editors)  
@@ -792,11 +792,13 @@ DOI: [10.1021/jp809094y](https://doi.org/10.1021/jp809094y) · PMID: [19253989](
 
 156. **A Blind Challenge for Computational Solvation Free Energies: Introduction and Overview**   
 J. Peter Guthrie  
-*ACS Publications* (2009-04-02) <https://pubs.acs.org/doi/abs/10.1021/jp806724u>
+*The Journal of Physical Chemistry B* (2009-04-09) <https://pubs.acs.org/doi/10.1021/jp806724u>   
+DOI: [10.1021/jp806724u](https://doi.org/10.1021/jp806724u)
 
-157. **Prediction of the Free Energy of Hydration of a Challenging Set of Pesticide-Like Compounds†**   
+157. **Prediction of the Free Energy of Hydration of a Challenging Set of Pesticide-Like Compounds**   
 Andreas Klamt, Frank Eckert, Michael Diedenhofen  
-*ACS Publications* (2009-03-10) <https://pubs.acs.org/doi/abs/10.1021/jp805853y>
+*The Journal of Physical Chemistry B* (2009-04-09) <https://pubs.acs.org/doi/10.1021/jp805853y>   
+DOI: [10.1021/jp805853y](https://doi.org/10.1021/jp805853y)
 
 158. **Practical Aspects of the SAMPL Challenge: Providing an Extensive Experimental Data Set for the Modeling Community**   
 Janet Newman, Vincent J. Fazio, Tom T. Caradoc-Davies, Kim Branson, Thomas S. Peat  
