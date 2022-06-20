@@ -57,6 +57,7 @@ jobs:
         if: steps.cache-pipenv.outputs.cache-hit != 'true'
         run: |
           pipenv install --dev --deploy
+          pipenv run pip freeze
 
       # Run the python script to pull all references from Zotero with tag
       - name: Zotero pull
