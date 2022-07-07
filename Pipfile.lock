@@ -353,11 +353,11 @@
         },
         "pyzotero": {
             "hashes": [
-                "sha256:66bf202995c27356a0ae5672474011e81c3d17c7f38021f3bb6fb9e6e4b7fa84",
-                "sha256:bf3ea8ceea5978af548a3ddab75cd914b2e2af674566cdbf06d1bd3762b4aa6d"
+                "sha256:b4fe14e2aff12c720f101dd11a8d3a0fdcfada52a1f90ce0172bbd846d6265c8",
+                "sha256:e2cc463ca2e0d7781cdfd08e8d3a6af1c5e8f76d537f2ec45da77572e8ed29fd"
             ],
             "index": "pypi",
-            "version": "==1.5.4"
+            "version": "==1.5.5"
         },
         "ratelimiter": {
             "hashes": [
