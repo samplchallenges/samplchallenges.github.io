@@ -125,11 +125,11 @@
         },
         "manubot": {
             "hashes": [
-                "sha256:bc623cb8d5a7b6a02e404718c7100469c9c3738b6eedca820ff2285d6a4d3430",
-                "sha256:d56f36418b61ff2cefd15e427de09753535dfdca7b4ed1742c0d037fabb6be24"
+                "sha256:e757bdaa6f42f07602cc00dd368b11d8e98158f21790723abb4f02b78a7e5117",
+                "sha256:f9523b02951e2984486e1f32c97143eef6da886b95cf8e919dcd8dccc2022576"
             ],
             "index": "pypi",
-            "version": "==0.5.4"
+            "version": "==0.5.5"
         },
         "markupsafe": {
             "hashes": [
