@@ -9,27 +9,15 @@ permalink: /roadmap/specialissues/
 
 For past SAMPL special issues, [please refer to our history](https://samplchallenges.github.io/history/references/).
 
-## SAMPL8 Physical-Properties Challenge
+## SAMPL8 and SAMPL9 Challenges
 
-In coordination with Terry Stouch, we are planning a special issue of *J. Comp. Aided Mol. Design* (JCAMD) focused on the SAMPL8 physical properties challenge.
-As usual, papers are expected to appear online in advance of their publication in the special issue as soon as they are ready unless otherwise requested.
-Articles will typically appear in the final issue in order of submission, and the first few articles get priority for selection for cover artwork.
+We are now working with Physical Chemistry Chemical Physics on special Collections for articles relating to the SAMPL9 challenges; please see [submission details on their website](https://www.rsc.org/journals-books-databases/about-journals/calls-for-papers/physical/#undefined). In this format, papers submitted by the deadline will appear in the Collection when it first appears, and papers submitted later will appear in the Collection as they are published. 
 
 ## General plans for future special issues
 
-We plan to continue running SAMPL special issues and special sections in partnership with JCAMD. We expect that, with each individual challenge, we will announce a submission deadline.
-When multiple challenges/challenge components occur around the same time, these will likely be coupled into a single special issue, whereas if challenges are quite disparate in timing they will be split across separate issues or special sections in a regular issue.
+We hope to continue our emerging partnership with PCCP and continue to have SAMPL Collections there on each new phase of the SAMPL challenges.
 
-We expect to typically have two special issues or special sections per year in JCAMD except if/when all challenges in a given year end up occurring around the same time, in which case a single issue may be sufficient.
-
-The distinction between special issues and special sections is planned to be driven by participation/submission rate; when enough papers are submitted, we plan on a special issue, but will fall back to a special section of the journal when this is not the case.
-
-### Submission deadlines
-
-In general, submission deadlines are firm; papers submitted late are not guaranteed to be included in the same special issue or special section, though in some cases they *may be* if they make it through the review process rapidly enough.
-Most late papers will be published in the next regular issue(s) or in a future SAMPL special issue or section if it is soon, at the discretion of the editor and guest editor in consultation with the author.
-
-## Review criteria for special issues
+## Review criteria for SAMPL papers
 
 In general, review criteria for SAMPL special issues are modestly different than for typical journal publications. Specifically, since these are blind prediction challenges, the community feeling has been that participants should be entitled to report what they did even if the reviewers might feel that it was ill advised, not particularly novel/exciting, or had modest had technical problems. However, papers must still:
 - fairly report their results, without overselling or giving an unwarranted sales pitch
@@ -53,3 +41,8 @@ If you've benefitted from our work on the SAMPL series of challenges, please be 
 We also ask you to cite the SAMPL dataset(s) you used. These are versioned on Zenodo, and a link will be available from the SAMPL repository for the challenge in which you participated.
 
 Of course, we also appreciate it if you cite any overview/experimental papers relevant to the particular SAMPL challenge you participated in.
+
+## Past support
+
+We are grateful to Terry Stouch for his many years of support for the SAMPL challenges, and to *J. Comp. Aided Mol. Design* (JCAMD) for the many special issues it previously hosted.
+
