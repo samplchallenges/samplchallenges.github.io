@@ -36,10 +36,9 @@ We recently ran the [SAMPL8 physical properties challenge](https://github.com/sa
 
 We are also running a SAMPL containerized docking methods challenge, where participants submit their methods rather than predictions. This allows us to test methods on equal footing without human intervention. For more information, please see our [github](https://github.com/samplchallenges/SAMPL-containers).
 
-## The 2022 EuroSAMPL Workshop in Germany
+## SAMPL Publications 
 
-In collaboration with the GCC, [we're running a 2022 EuroSAMPL workshop](assets/images/Flyer_GCC-EuroSAMPL_2022_final.pdf) jointly with the 17th German Conference on Cheminformatics, May 8-12, 2022, in Germany. Please see the linked flier for more details.
-
+Currently, we're working with the Royal Society of Chemistry to have SAMPL8 and SAMPL9 articles in special Collections of Physical Chemistry Chemical Physics. Please visit [this website](https://www.rsc.org/journals-books-databases/about-journals/calls-for-papers/physical/#undefined) and search for SAMPL for additional details.
 
 ## SAMPL announcements and interactions
 
